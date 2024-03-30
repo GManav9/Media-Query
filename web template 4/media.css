@@ -1,0 +1,1486 @@
+@media(max-width:980px){
+    .header1{
+        height: auto;
+        justify-content: center;
+    }
+    .head1{
+        height: auto;
+        width: 100%;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .logo{
+        width: 36%;
+        margin-top: 30px;
+    }
+    .logo #l1{
+        font-size: 30px;
+        font-weight: 590;
+    }
+    .logo #l2{
+        font-size: 30px;
+        font-weight: 590;
+    }
+    .logo span{
+        font-size: 19px;
+    }
+    .socials{
+        width: 20%;
+        height: auto;
+    }
+    .in{
+        width: 25%;
+        height: auto;
+        margin-top: 30px;
+        justify-content: center;
+    }
+    .in input{
+        width: 400px;
+    }
+    .in .sea{
+        right: 0;
+    }
+    .header2{
+        margin-top: 20px;
+        height: auto;
+        width: 100%;
+    }
+    .head2{
+        height: auto;
+        width: 100%;
+    }
+    nav{
+        height: auto;
+        width: 100%;
+    }
+    nav ul li a{
+        font-size: 20px;
+    }
+    #a1{
+        height: 500px;
+        width: 100%;
+        background-position: center;
+        background-size: contain;
+    }
+    .good{
+        height: auto;
+        width: 500px;
+        margin-left: 0;
+        /* border: 1px solid red; */
+        margin-left: 20px;
+    }
+    .good h1{
+        font-size: 35px;
+    }
+    .good p{
+        font-size: 16px;
+    }
+    .good #btn1{
+        height: 50px;
+        width: 150px;
+        font-size: 17px;
+    }
+    .good #btn2{
+        height: 50px;
+        width: 150px;
+        font-size: 17px;
+    }
+    #a2{
+        height: auto;
+        width: 100%;
+        margin-top: 100px;
+    }
+    .books{
+        height: auto;
+        width: 95%;
+        /* flex-direction: column; */
+        margin-top: 50px;
+        align-items: center;
+    }
+    .bk1,.bk2,.bk3,.bk4{
+        width: 45%;
+        margin-top: 30px;
+    }    
+    .bk1 p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .bk2 p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .bk3 p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .bk4 p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+    #a3{
+        height: auto;
+        width: 100%;
+        margin-top: 600px;
+    }
+    .numbers{
+        height: auto;
+        width: 100%;
+        flex-wrap: wrap;
+        /* flex-direction: column; */
+    }
+    .num1,.num2,.num3,.num4{
+        height: auto;
+        width: 45%;
+        margin-top: 50px;
+    }
+    #a4{
+        height: auto;
+        width: 100%;
+        margin-top: 50px;
+    }
+    .welcome{
+        height: auto;
+        width: 80%;
+        flex-direction: column;
+    }
+    .wel1{
+        height: auto;
+        width: 100%;
+    }
+    .wel2{
+        height: auto;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .wel2 h1{
+        font-size: 40px;
+    }
+    .wel2 #p1{
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .wel2 #p2{
+        font-size: 20px;
+        line-height: 28px;
+    }
+
+
+    #a5{
+        height: auto;
+        width: 100%;
+    }
+    .boo{
+        width: 100%;
+        height: auto;
+        /* flex-direction: column; */
+        flex-wrap: wrap;
+    }
+    .b1,.b2,.b3,.b4,.b5,.b6{
+        width: 45%;
+        flex-direction: column;
+        height: auto;
+    }
+    .b4,.b5,.b6{
+        flex-direction: column-reverse;
+    }
+    .b1 .you1,.you2{
+        height: auto;
+    }
+    .b1 .you1{
+        height: 300px;
+    }
+    .b1 .you2{
+        height: 200px;
+    }
+    .you2 span{
+        top: 30px;
+    }
+    .you2 h2{
+        padding-top: 70px;
+    }
+    .you2 h4{
+        padding-top: 30px;
+    }
+    .b2 .you3,.you4{
+        height: auto;
+    }
+    .b2 .you3{
+        height: 300px;
+    }
+    .b2 .you4{
+        height: 200px;
+    }
+    .you4 span{
+        top: 30px;
+    }
+    .you4 h2{
+        padding-top: 70px;
+    }
+    .you4 h4{
+        padding-top: 10px;
+    }
+    .b3 .you5,.you6{
+        height: auto;
+    }
+    .b3 .you5{
+        height: 300px;
+    }
+    .b3 .you6{
+        height: 200px;
+    }
+    .you6 span{
+        top: 30px;
+    }
+    .you6 h2{
+        padding-top: 70px;
+    }
+    .you6 h4{
+        padding-top: 30px;
+    }
+    .b4 .you7,.you8{
+        height: auto;
+    }
+    .b4 .you8{
+        height: 300px;
+    }
+    .b4 .you7{
+        height: 200px;
+    }
+    .you7 span{
+        top: 30px;
+    }
+    .you7 h2{
+        padding-top: 70px;
+    }
+    .you7 h4{
+        padding-top: 30px;
+    }
+    .b5 .you9,.you10{
+        height: auto;
+    }
+    .b5 .you10{
+        height: 300px;
+    }
+    .b5 .you9{
+        height: 200px;
+    }
+    .you9 span{
+        top: 30px;
+    }
+    .you9 h2{
+        padding-top: 70px;
+    }
+    .you9 h4{
+        padding-top: 30px;
+    }
+    .b6 .you11,.you12{
+        height: auto;
+    }
+    .b6 .you12{
+        height: 300px;
+    }
+    .b6 .you11{
+        height: 200px;
+    }
+    .you11 span{
+        top: 30px;
+    }
+    .you11 h2{
+        padding-top: 70px;
+    }
+    .you11 h4{
+        padding-top: 30px;
+    }
+    #a6{
+        height: auto;
+        width: 100%;
+    }
+    .recent{
+        height: auto;
+        width: 90%;
+    }
+    .blog1,.blog2,.blog3{
+        width: 28%;
+    }
+    .date{
+        height: 80px;
+        width: 80px;
+        top: 27%;
+        left: 33%;
+    }
+    .date h1{
+        font-size: 24px;
+    }
+    .date h2{
+        font-size: 15px;
+    }
+    .date span{
+        font-size: 15px;
+    }
+    footer{
+        height: auto;
+        width: 100%;
+    }
+    .foo{
+        height: auto;
+        width: 80%;
+        flex-wrap: wrap;
+    }
+    .f1,.f2,.f3,.f4,.f5{
+        width: 45%;
+        margin-top: 50px;
+    }
+    .face1{
+        margin-top: 30px;
+    }
+    .twi1{
+        margin-top: 30px;
+    }
+    .inst1{
+        margin-top: 30px;
+    }
+    .f1 h3{
+        font-size: 35px;
+    }
+    .f2 h3{
+        font-size: 35px;
+    }.f3 h3{
+        font-size: 35px;
+    }.f4 h3{
+        font-size: 35px;
+    }
+    .f5 h3{
+        font-size: 35px;
+    }
+    .all a{
+        font-size: 18px;
+    }
+    .all1 a{
+        font-size: 18px;
+    }
+    .all2 a{
+        font-size: 18px;
+    }
+    .fa-map{
+        font-size: 23px;
+    }
+    .fa-telegram{
+        font-size: 25px;
+    }
+    .fa-phone{
+        font-size: 23px;
+    }
+    #h41{
+        font-size: 20px;
+    }
+    #h43{
+        font-size: 20px;
+    }
+    #h43{
+        font-size: 20px;
+    }
+
+}
+
+@media(max-width:720px){
+    .header1{
+        height: auto;
+        justify-content: center;
+    }
+    .head1{
+        height: auto;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .logo{
+        height: auto;
+        width: 55%;
+        margin-top: 30px;
+    }
+    .logo #l1{
+        font-size: 30px;
+        font-weight: 590;
+    }
+    .logo #l2{
+        font-size: 30px;
+        font-weight: 590;
+    }
+    .logo span{
+        font-size: 19px;
+    }
+    .socials{
+        width: 40%;
+        height: auto;
+    }
+    .in{
+        width: 90%;
+        height: auto;
+        margin-top: 30px;
+        justify-content: center;
+    }
+    .in input{
+        width: 400px;
+    }
+    .in .sea{
+        right: 130px;
+    }
+    .header2{
+        margin-top: 20px;
+        height: auto;
+        width: 100%;
+    }
+    .head2{
+        height: auto;
+        width: 100%;
+    }
+    nav{
+        height: auto;
+        width: 100%;
+    }
+    nav ul li a{
+        font-size: 16px;
+    }
+    #a1{
+        height: 350px;
+        width: 100%;
+        background-attachment: scroll;
+        background-size: cover;
+    }
+    .good{
+        height: auto;
+        width: 400px;
+        margin-left: 0;
+        /* border: 1px solid red; */
+        margin-left: 20px;
+    }
+    .good h1{
+        font-size: 30px;
+    }
+    .good p{
+        font-size: 14px;
+    }
+    .good #btn1{
+        height: 45px;
+        width: 130px;
+        font-size: 16px;
+    }
+    .good #btn2{
+        height: 45px;
+        width: 130px;
+        font-size: 16px;
+    }
+    #a2{
+        height: auto;
+        width: 100%;
+        margin-top: 100px;
+    }
+    .books{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+        margin-top: 50px;
+        align-items: center;
+    }
+    .bk1,.bk2,.bk3,.bk4{
+        width: 90%;
+        margin-top: 30px;
+    }    
+    .bk1 p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .bk2 p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .bk3 p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .bk4 p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+    #a3{
+        height: auto;
+        width: 100%;
+        margin-top: 1100px;
+    }
+    .numbers{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+    }
+    .num1,.num2,.num3,.num4{
+        height: auto;
+        width: 100%;
+        margin-top: 50px;
+    }
+    #a4{
+        height: auto;
+        width: 100%;
+        margin-top: 50px;
+    }
+    .welcome{
+        height: auto;
+        width: 85%;
+        flex-direction: column;
+    }
+    .wel1{
+        height: auto;
+        width: 100%;
+    }
+    .wel2{
+        height: auto;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .wel2 h1{
+        font-size: 30px;
+    }
+    .wel2 #p1{
+        font-size: 19px;
+        line-height: 28px;
+    }
+    .wel2 #p2{
+        font-size: 19px;
+        line-height: 28px;
+    }
+    #a5{
+        height: auto;
+        width: 100%;
+    }
+    .boo{
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .b1,.b2,.b3,.b4,.b5,.b6{
+        width: 80%;
+        flex-direction: column;
+        height: auto;
+    }
+    .b4,.b5,.b6{
+        flex-direction: column-reverse;
+    }
+    .b1 .you1,.you2{
+        height: auto;
+    }
+    .b1 .you1{
+        height: 300px;
+    }
+    .b1 .you2{
+        height: 200px;
+    }
+    .you2 span{
+        top: 30px;
+    }
+    .you2 h2{
+        padding-top: 70px;
+    }
+    .you2 h4{
+        padding-top: 30px;
+    }
+    .b2 .you3,.you4{
+        height: auto;
+    }
+    .b2 .you3{
+        height: 300px;
+    }
+    .b2 .you4{
+        height: 200px;
+    }
+    .you4 span{
+        top: 30px;
+    }
+    .you4 h2{
+        padding-top: 70px;
+    }
+    .you4 h4{
+        padding-top: 30px;
+    }
+    .b3 .you5,.you6{
+        height: auto;
+    }
+    .b3 .you5{
+        height: 300px;
+    }
+    .b3 .you6{
+        height: 200px;
+    }
+    .you6 span{
+        top: 30px;
+    }
+    .you6 h2{
+        padding-top: 70px;
+    }
+    .you6 h4{
+        padding-top: 30px;
+    }
+    .b4 .you7,.you8{
+        height: auto;
+    }
+    .b4 .you8{
+        height: 300px;
+    }
+    .b4 .you7{
+        height: 200px;
+    }
+    .you7 span{
+        top: 30px;
+    }
+    .you7 h2{
+        padding-top: 70px;
+    }
+    .you7 h4{
+        padding-top: 30px;
+    }
+    .b5 .you9,.you10{
+        height: auto;
+    }
+    .b5 .you10{
+        height: 300px;
+    }
+    .b5 .you9{
+        height: 200px;
+    }
+    .you9 span{
+        top: 30px;
+    }
+    .you9 h2{
+        padding-top: 70px;
+    }
+    .you9 h4{
+        padding-top: 30px;
+    }
+    .b6 .you11,.you12{
+        height: auto;
+    }
+    .b6 .you12{
+        height: 300px;
+    }
+    .b6 .you11{
+        height: 200px;
+    }
+    .you11 span{
+        top: 30px;
+    }
+    .you11 h2{
+        padding-top: 70px;
+    }
+    .you11 h4{
+        padding-top: 30px;
+    }
+    #a6{
+        height: auto;
+        width: 100%;
+        margin-top: 50px;
+    }
+    .recent{
+        height: auto;
+        width: 75%;
+        flex-direction: column;
+    }
+    .recent #bo{
+        font-size: 16px;
+    }
+    .recent #ro{
+        font-size: 40px;
+    }
+    .blog1,.blog2,.blog3{
+        width: 100%;
+        height: 500px;
+        margin-top: 80px;
+    }
+    .date{
+        left: 40%;
+        top: 60%;
+    }
+    footer{
+        margin-top: 50px;
+        height: auto;
+        width: 100%;
+    }
+    .foo{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .f1,.f2,.f3,.f4,.f5{
+        width: 85%;
+        margin-top: 50px;
+    }
+    .inst1{
+        margin-top: 20px;
+    }
+    .face1{
+        margin-top: 20px;
+    }
+    .twi1{
+        margin-top: 20px;
+    }
+}
+
+@media(max-width:576px){
+    .header1{
+        height: auto;
+        justify-content: center;
+    }
+    .head1{
+        height: auto;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .logo{
+        height: auto;
+        width: 63%;
+        margin-top: 30px;
+    }
+    .logo #l1{
+        font-size: 30px;
+        font-weight: 590;
+    }
+    .logo #l2{
+        font-size: 30px;
+        font-weight: 590;
+    }
+    .logo span{
+        font-size: 19px;
+    }
+    .socials{
+        width: 40%;
+        height: auto;
+    }
+    .in{
+        width: 90%;
+        height: auto;
+        margin-top: 30px;
+        justify-content: center;
+    }
+    .in input{
+        width: 400px;
+    }
+    .in .sea{
+        right: 50px;
+    }
+    .header2{
+        margin-top: 20px;
+        height: auto;
+        width: 100%;
+    }
+    .head2{
+        height: auto;
+        width: 100%;
+    }
+    nav{
+        height: auto;
+        width: 100%;
+    }
+    nav ul li a{
+        font-size: 13px;
+    }
+    #a1{
+        height: 300px;
+        width: 100%;
+        background-attachment: scroll;
+        margin-top: 20px;
+        background-size: cover;
+    }
+    .good{
+        height: auto;
+        width: 300px;
+        margin-left: 0;
+        /* border: 1px solid red; */
+        margin-left: 20px;
+    }
+    .good h1{
+        font-size: 25px;
+    }
+    .good p{
+        font-size: 14px;
+    }
+    .good #btn1{
+        height: 40px;
+        width: 120px;
+        font-size: 15px;
+    }
+    .good #btn2{
+        height: 40px;
+        width: 120px;
+        font-size: 15px;
+    }
+    #a2{
+        height: auto;
+        width: 100%;
+        margin-top: 100px;
+    }
+    .books{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+        margin-top: 50px;
+        align-items: center;
+    }
+    .bk1,.bk2,.bk3,.bk4{
+        width: 90%;
+        margin-top: 30px;
+    }    
+    .bk1 p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .bk2 p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .bk3 p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .bk4 p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+    #a3{
+        height: auto;
+        width: 100%;
+        margin-top: 1100px;
+    }
+    .numbers{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+    }
+    .num1,.num2,.num3,.num4{
+        height: auto;
+        width: 100%;
+        margin-top: 50px;
+    }
+    #a4{
+        height: auto;
+        width: 100%;
+        margin-top: 50px;
+    }
+    .welcome{
+        height: auto;
+        width: 90%;
+        flex-direction: column;
+    }
+    .wel1{
+        height: auto;
+        width: 100%;
+    }
+    .wel2{
+        height: auto;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .wel2 h1{
+        font-size: 30px;
+    }
+    .wel2 #p1{
+        font-size: 19px;
+        line-height: 28px;
+    }
+    .wel2 #p2{
+        font-size: 19px;
+        line-height: 28px;
+    }
+    #a5{
+        height: auto;
+        width: 100%;
+    }
+    .boo{
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .b1,.b2,.b3,.b4,.b5,.b6{
+        width: 90%;
+        flex-direction: column;
+        height: auto;
+    }
+    .b4,.b5,.b6{
+        flex-direction: column-reverse;
+    }
+    .b1 .you1,.you2{
+        height: auto;
+    }
+    .b1 .you1{
+        height: 300px;
+    }
+    .b1 .you2{
+        height: 200px;
+    }
+    .you2 span{
+        top: 30px;
+    }
+    .you2 h2{
+        padding-top: 70px;
+    }
+    .you2 h4{
+        padding-top: 30px;
+    }
+    .b2 .you3,.you4{
+        height: auto;
+    }
+    .b2 .you3{
+        height: 300px;
+    }
+    .b2 .you4{
+        height: 200px;
+    }
+    .you4 span{
+        top: 30px;
+    }
+    .you4 h2{
+        padding-top: 70px;
+    }
+    .you4 h4{
+        padding-top: 30px;
+    }
+    .b3 .you5,.you6{
+        height: auto;
+    }
+    .b3 .you5{
+        height: 300px;
+    }
+    .b3 .you6{
+        height: 200px;
+    }
+    .you6 span{
+        top: 30px;
+    }
+    .you6 h2{
+        padding-top: 70px;
+    }
+    .you6 h4{
+        padding-top: 30px;
+    }
+    .b4 .you7,.you8{
+        height: auto;
+    }
+    .b4 .you8{
+        height: 300px;
+    }
+    .b4 .you7{
+        height: 200px;
+    }
+    .you7 span{
+        top: 30px;
+    }
+    .you7 h2{
+        padding-top: 70px;
+    }
+    .you7 h4{
+        padding-top: 30px;
+    }
+    .b5 .you9,.you10{
+        height: auto;
+    }
+    .b5 .you10{
+        height: 300px;
+    }
+    .b5 .you9{
+        height: 200px;
+    }
+    .you9 span{
+        top: 30px;
+    }
+    .you9 h2{
+        padding-top: 70px;
+    }
+    .you9 h4{
+        padding-top: 30px;
+    }
+    .b6 .you11,.you12{
+        height: auto;
+    }
+    .b6 .you12{
+        height: 300px;
+    }
+    .b6 .you11{
+        height: 200px;
+    }
+    .you11 span{
+        top: 30px;
+    }
+    .you11 h2{
+        padding-top: 70px;
+    }
+    .you11 h4{
+        padding-top: 30px;
+    }
+    #a6{
+        height: auto;
+        width: 100%;
+        margin-top: 50px;
+    }
+    .recent{
+        height: auto;
+        width: 90%;
+        flex-direction: column;
+    }
+    .recent #bo{
+        font-size: 16px;
+    }
+    .recent #ro{
+        font-size: 40px;
+    }
+    .blog1,.blog2,.blog3{
+        width: 100%;
+        height: 500px;
+        margin-top: 80px;
+    }
+    .date{
+        left: 40%;
+        top: 57%;
+    }
+    footer{
+        height: auto;
+        width: 100%;
+    }
+    .foo{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .f1,.f2,.f3,.f4,.f5{
+        width: 95%;
+        margin-top: 50px;
+    }
+    .inst1{
+        margin-top: 20px;
+    }
+    .face1{
+        margin-top: 20px;
+    }
+    .twi1{
+        margin-top: 20px;
+    } 
+    .f1 h3{
+        font-size: 30px;
+    }
+    .f2 h3{
+        font-size: 30px;
+    }.f3 h3{
+        font-size: 30px;
+    }.f4 h3{
+        font-size: 30px;
+    }
+    .f5 h3{
+        font-size: 30px;
+    }
+    .all a{
+        font-size: 16px;
+    }
+    .all1 a{
+        font-size: 16px;
+    }
+    .all2 a{
+        font-size: 16px;
+    }
+    .fa-map{
+        font-size: 20px;
+    }
+    .fa-telegram{
+        font-size: 23px;
+    }
+    .fa-phone{
+        font-size: 20px;
+    }
+    #h41{
+        font-size: 18px;
+    }
+    #h43{
+        font-size: 18px;
+    }
+    #h43{
+        font-size: 18px;
+    }  
+
+}
+
+@media(max-width:480px){
+    .header1{
+        height: auto;
+        justify-content: center;
+    }
+    .head1{
+        height: auto;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .logo{
+        height: auto;
+        width: 70%;
+        margin-top: 30px;
+    }
+    .logo #l1{
+        font-size: 28px;
+        font-weight: 590;
+    }
+    .logo #l2{
+        font-size: 28px;
+        font-weight: 590;
+    }
+    .logo span{
+        font-size: 19px;
+    }
+    .socials{
+        width: 40%;
+        /* margin-top: 30px; */
+        height: auto;
+    }
+    .in{
+        width: 90%;
+        height: auto;
+        margin-top: 30px;
+        justify-content: center;
+    }
+    .in input{
+        width: 400px;
+    }
+    .in .sea{
+        right: 30px;
+    }
+    .header2{
+        margin-top: 20px;
+        height: auto;
+        width: 100%;
+    }
+    .head2{
+        height: auto;
+        width: 100%;
+    }
+    nav{
+        height: auto;
+        width: 100%;
+    }
+    nav ul li a{
+        font-size: 12px;
+    }
+    #a1{
+        height: 300px;
+        width: 100%;
+        background-attachment: scroll;
+    }
+    .good{
+        height: auto;
+        width: 300px;
+        margin-left: 0;
+        /* border: 1px solid red; */
+        margin-left: 20px;
+    }
+    .good h1{
+        font-size: 25px;
+    }
+    .good p{
+        font-size: 14px;
+    }
+    .good #btn1{
+        height: 40px;
+        width: 120px;
+        font-size: 15px;
+    }
+    .good #btn2{
+        height: 40px;
+        width: 120px;
+        font-size: 15px;
+    }
+    #a2{
+        height: auto;
+        width: 100%;
+        margin-top: 100px;
+    }
+    .books{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+        margin-top: 50px;
+        align-items: center;
+    }
+    .bk1,.bk2,.bk3,.bk4{
+        width: 90%;
+        margin-top: 30px;
+    }    
+    .bk1 p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .bk2 p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .bk3 p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .bk4 p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+    #a3{
+        height: auto;
+        width: 100%;
+        margin-top: 1100px;
+    }
+    .numbers{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+    }
+    .num1,.num2,.num3,.num4{
+        height: auto;
+        width: 100%;
+        margin-top: 50px;
+    }
+    #a4{
+        height: auto;
+        width: 100%;
+        margin-top: 50px;
+    }
+    .welcome{
+        height: auto;
+        width: 90%;
+        flex-direction: column;
+    }
+    .wel1{
+        height: auto;
+        width: 100%;
+    }
+    .wel2{
+        height: auto;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .wel2 h1{
+        font-size: 30px;
+    }
+    .wel2 #p1{
+        font-size: 19px;
+        line-height: 28px;
+    }
+    .wel2 #p2{
+        font-size: 19px;
+        line-height: 28px;
+    }
+    
+    #a5{
+        height: auto;
+        width: 100%;
+    }
+    .boo{
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .b1,.b2,.b3,.b4,.b5,.b6{
+        width: 90%;
+        flex-direction: column;
+        height: auto;
+    }
+    .b4,.b5,.b6{
+        flex-direction: column-reverse;
+    }
+    .b1 .you1,.you2{
+        height: auto;
+    }
+    .b1 .you1{
+        height: 300px;
+    }
+    .b1 .you2{
+        height: 200px;
+    }
+    .you2 span{
+        top: 30px;
+    }
+    .you2 h2{
+        padding-top: 70px;
+    }
+    .you2 h4{
+        padding-top: 30px;
+    }
+    .b2 .you3,.you4{
+        height: auto;
+    }
+    .b2 .you3{
+        height: 300px;
+    }
+    .b2 .you4{
+        height: 200px;
+    }
+    .you4 span{
+        top: 30px;
+    }
+    .you4 h2{
+        padding-top: 70px;
+    }
+    .you4 h4{
+        padding-top: 30px;
+    }
+    .b3 .you5,.you6{
+        height: auto;
+    }
+    .b3 .you5{
+        height: 300px;
+    }
+    .b3 .you6{
+        height: 200px;
+    }
+    .you6 span{
+        top: 30px;
+    }
+    .you6 h2{
+        padding-top: 70px;
+    }
+    .you6 h4{
+        padding-top: 30px;
+    }
+    .b4 .you7,.you8{
+        height: auto;
+    }
+    .b4 .you8{
+        height: 300px;
+    }
+    .b4 .you7{
+        height: 200px;
+    }
+    .you7 span{
+        top: 30px;
+    }
+    .you7 h2{
+        padding-top: 70px;
+    }
+    .you7 h4{
+        padding-top: 30px;
+    }
+    .b5 .you9,.you10{
+        height: auto;
+    }
+    .b5 .you10{
+        height: 300px;
+    }
+    .b5 .you9{
+        height: 200px;
+    }
+    .you9 span{
+        top: 30px;
+    }
+    .you9 h2{
+        padding-top: 70px;
+    }
+    .you9 h4{
+        padding-top: 30px;
+    }
+    .b6 .you11,.you12{
+        height: auto;
+    }
+    .b6 .you12{
+        height: 300px;
+    }
+    .b6 .you11{
+        height: 200px;
+    }
+    .you11 span{
+        top: 30px;
+    }
+    .you11 h2{
+        padding-top: 70px;
+    }
+    .you11 h4{
+        padding-top: 30px;
+    }
+    #a6{
+        height: auto;
+        width: 100%;
+        margin-top: 50px;
+    }
+    .recent{
+        height: auto;
+        width: 90%;
+        flex-direction: column;
+    }
+    .recent #bo{
+        font-size: 16px;
+    }
+    .recent #ro{
+        font-size: 40px;
+    }
+    .blog1,.blog2,.blog3{
+        width: 100%;
+        height: 500px;
+        margin-top: 20px;
+    }
+    .date{
+        top: 45%;
+    }
+    footer{
+        height: auto;
+        width: 100%;
+    }
+    .foo{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .f1,.f2,.f3,.f4,.f5{
+        width: 95%;
+        margin-top: 50px;
+    }
+    .inst1{
+        margin-top: 20px;
+    }
+    .face1{
+        margin-top: 20px;
+    }
+    .twi1{
+        margin-top: 20px;
+    }
+    .f1 h3{
+        font-size: 30px;
+    }
+    .f2 h3{
+        font-size: 30px;
+    }.f3 h3{
+        font-size: 30px;
+    }.f4 h3{
+        font-size: 30px;
+    }
+    .f5 h3{
+        font-size: 30px;
+    }
+    .all a{
+        font-size: 16px;
+    }
+    .all1 a{
+        font-size: 16px;
+    }
+    .all2 a{
+        font-size: 16px;
+    }
+    .fa-map{
+        font-size: 20px;
+    }
+    .fa-telegram{
+        font-size: 23px;
+    }
+    .fa-phone{
+        font-size: 20px;
+    }
+    #h41{
+        font-size: 18px;
+    }
+    #h43{
+        font-size: 18px;
+    }
+    #h43{
+        font-size: 18px;
+    }
+}
