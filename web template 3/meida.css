@@ -1,0 +1,1252 @@
+@media(max-width:980px){
+    header{
+        height: auto;
+        width: 100%;
+        justify-content: center;
+    }
+    .subheader{
+        height: auto;
+        width: 100%;
+        justify-content: center;
+    }
+    .sub{
+        height: auto;
+        width: 100%;
+        justify-content: center;
+        flex-wrap: wrap ;
+    }
+    .logo{
+        height: auto;
+        width: 50%;
+    }
+    nav{
+        height: auto;
+        width: 76%;
+    }
+    nav ul{
+        justify-content: space-evenly;
+    }
+    nav ul li a{
+        font-size: 18px;
+    }
+    .button{
+        width: 20%;
+        margin-right: 10px;
+    }
+    .button button{
+        height: 40px;
+        width: 160px;
+        font-size: 16px;
+    }
+    .best{
+        height: 380px;
+        width: 50%;
+       margin-left: 0;
+       margin-right: 300px; 
+       margin-top: 180px;
+
+    }
+    .best h1{
+        font-size: 35px;
+    }
+    .best p{
+        font-size: 16px;
+    }
+    .best button{
+        height: 50px;
+        width: 180px;
+        font-size: 16px;
+    }
+    #a1{
+        /* height: auto; */
+        width: 100%;
+    }
+    .logos{
+        justify-content: space-around;
+        flex-wrap: wrap;
+        width: 95%;
+    }
+    .logo1{
+        height: 45%;
+        width: 32%;
+    }
+    .logo2{
+        height: 45%;
+        width: 30%;
+    }
+    .logo3{
+        width: 28%;
+        height: 45%;
+    }
+    .logo4{
+        width: 35%;
+        height: 45%;
+    }
+    .logo5{
+        height: 45%;
+        width: 35%;
+    }
+
+    #a2{
+        height: auto;
+        width: 100%;
+    }
+    .find{
+        margin-top: 80px;
+        height: auto;
+        width: 90%;
+        flex-wrap: wrap;
+    }
+    .find1{
+        height: auto;
+        width: 38%;
+    }
+    .find2{
+        height: auto;
+        width: 55%;
+    }
+    .find2 h1{
+        font-size: 30px;
+    }
+    .find2 p{
+        font-size: 16px;
+    }
+    .find2 #btn2{
+        height: 55px;
+        width: 160px;
+        font-size: 15px;
+    }
+    .find2 #bu{
+        height: 55px;
+        width: 180px;
+        font-size: 15px;
+        margin-left: 5px;
+    }
+
+    #a3{
+        height: auto;
+        width: 100%;
+        /* margin-top: 50px; */
+    }
+    #a3 #a3h1{
+        margin-top: 100px;
+        font-size: 35px;
+    }
+    .latest{
+        height: 500px;
+        width: 90%;
+        margin-top: 50px;
+    }
+    .latest1 h2{
+        font-size: 25px;
+    }
+    .latest1 h3{
+        font-size: 18px;
+    }
+    .latest1 h1{
+        font-size: 28px;
+    }
+    .img3{
+        height: 80px;
+        width: 95px;
+        bottom: 35px;
+        left: 10px;
+    }
+    .img4{
+        height: 80px;
+        width: 95px;
+        bottom: 35px;
+        right: 10px;
+    }
+
+    #a4{
+        height: auto;
+        width: 100%;
+    }
+    #a4 #a4h1{
+        margin-top: 80px;
+        font-size: 35px;
+    }
+    .fighter{
+        height: auto;
+        width: 100%;
+    }
+    .fighter{
+        height: auto;
+        width:90%;
+        flex-wrap: wrap;
+    }
+    .fighter1{
+        height: auto;
+        width: 100%;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 40px;
+    }
+    .f1{
+        height: 300px;
+        width: 80%;
+        margin-top: 50px;
+    }
+    .f2{
+        height: 300px;
+        margin-top: 50px;
+        width: 80%;
+    }
+    .fighter2{
+        height: auto;
+        width: 100%;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .f3{
+        margin-top: 50px;
+        height: 300px;
+        width: 80%;
+    }
+    .f4{
+        margin-top: 50px;
+        height: 300px;
+        width: 80%;
+    }
+    .fighter3{
+        height: auto;
+        width: 100%;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .f5{
+        margin-top: 50px;
+        height: 300px;
+        width: 80%;
+    }
+    .f6{
+        margin-top: 50px;
+        height: 300px;
+        width: 80%;
+    }
+    .f7{
+        margin-top: 50px;
+        height: 300px;
+        width: 80%;
+    }
+
+    #a5{
+        height: auto;
+        width: 100%;
+    }
+    #a5 h1{
+        margin-top: 80px;
+        font-size: 50px;
+    }
+
+    #a6{
+        height: auto;
+        width: 100%;
+    }
+    #a6 #a6h1{
+        font-size: 50px;
+    }
+    .plans{
+        height: auto;
+        width: 80%;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin-top: 50px;
+        /* justify-content: center; */
+    }
+    .plan1,.plan2{
+        height: 520px;
+        width: 45%;
+    }
+    .plan3{
+        height: 520px;
+        width: 45%;
+        margin-left: 27%;
+        margin-top: 50px;
+    }
+    .plan1 h2{
+        top: 50px;
+        font-size: 25px;
+        left: 90px;
+    }
+    .plan1 #p1{
+        top: 280px;
+    }
+    .plan1 #p2{
+        top: 320px;
+    }
+    .plan1 #p3{
+        top: 360px;
+    }
+    .plan1 button{
+        right: 80px;
+    }
+    .plan2 h2{
+        top: 50px;
+        font-size: 25px;
+        left: 100px;
+    }
+    .plan2 #p1{
+        top: 280px;
+    }
+    .plan2 #p2{
+        top: 320px;
+    }
+    .plan2 #p3{
+        top: 360px;
+    }
+    .plan2 button{
+        right: 80px;
+    }
+    .plan3 h2{
+        top: 50px;
+        font-size: 25px;
+        left: 70px;
+    }
+    .plan3 #p1{
+        top: 280px;
+    }
+    .plan3 #p2{
+        top: 320px;
+    }
+    .plan3 #p3{
+        top: 360px;
+    }
+    .plan3 button{
+        right: 80px;
+    }
+    footer{
+        height: auto;
+        width: 100%;
+    }
+    .foo{
+        width: 90%;
+        height: auto;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    .foo1,.foo2,.foo3,.foo4{
+        width: 47%;
+        margin-top: 50px;
+    }
+    .foo2{
+        margin-top: 120px;
+    }
+    .foo4{
+        height: 250px;
+        margin-bottom: 15px;
+    }
+    .foo4 input{
+        margin-top: 20px;
+        width: 350px;
+    }
+    .foo4 .send{
+        bottom: 78px;
+        right: 22px;
+    }
+}
+
+
+@media(max-width:720px){
+    header{
+        height: auto;
+        width: 100%;
+        justify-content: center;
+    }
+    .subheader{
+        height: auto;
+        width: 100%;
+        justify-content: center;
+    }
+    .sub{
+        height: auto;
+        width: 100%;
+        justify-content: center;
+        flex-wrap: wrap ;
+    }
+    .logo{
+        height: auto;
+        width: 50%;
+    }
+    nav{
+        height: auto;
+        width: 76%;
+    }
+    nav ul{
+        justify-content: space-evenly;
+    }
+    nav ul li a{
+        font-size: 16px;
+    }
+    .button{
+        width: 20%;
+        margin-right: 10px;
+    }
+    .button button{
+        height: 30px;
+        width: 130px;
+        font-size: 14px;
+    }
+    .best{
+        height: 380px;
+        width: 60%;
+       margin-left: 0;
+       margin-right: 200px; 
+       margin-top: 180px;
+
+    }
+    .best h1{
+        font-size: 25px;
+    }
+    .best p{
+        font-size: 14px;
+    }
+    .best button{
+        height: 40px;
+        width: 150px;
+        font-size: 14px;
+    }
+
+    #a2{
+        height: auto;
+        width: 100%;
+    }
+    .find{
+        height: auto;
+        width: 80%;
+        flex-wrap: wrap;
+    }
+    .find1{
+        height: auto;
+        width: 100%;
+    }
+    .find2{
+        height: auto;
+        width: 100%;
+    }
+    .find2 h1{
+        font-size: 33px;
+    }
+    .find2 p{
+        font-size: 16px;
+    }
+    .find2 #btn2{
+        height: 55px;
+        width: 160px;
+        font-size: 15px;
+    }
+    .find2 #bu{
+        height: 55px;
+        width: 180px;
+        font-size: 15px;
+        margin-left: 20px;
+    }
+    #a3{
+        height: auto;
+        width: 100%;
+        /* margin-top: 50px; */
+    }
+    #a3 #a3h1{
+        margin-top: 100px;
+        font-size: 30px;
+    }
+    .latest{
+        height: 500px;
+        width: 90%;
+        margin-top: 50px;
+    }
+    .latest1 h2{
+        font-size: 20px;
+    }
+    .latest1 h3{
+        font-size: 16px;
+    }
+    .latest1 h1{
+        font-size: 25px;
+    }
+    .img3{
+        height: 70px;
+        width: 80px;
+        bottom: 35px;
+        left: 10px;
+    }
+    .img4{
+        height: 70px;
+        width: 80px;
+        bottom: 35px;
+        right: 10px;
+    }
+
+    #a4{
+        height: auto;
+        width: 100%;
+    }
+    #a4 #a4h1{
+        margin-top: 80px;
+        font-size: 35px;
+    }
+    .fighter{
+        height: auto;
+        width: 100%;
+    }
+    .fighter{
+        height: auto;
+        width:90%;
+        flex-wrap: wrap;
+    }
+    .fighter1{
+        height: auto;
+        width: 100%;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 40px;
+    }
+    .f1{
+        height: 300px;
+        width: 80%;
+        margin-top: 50px;
+    }
+    .f2{
+        height: 300px;
+        margin-top: 50px;
+        width: 80%;
+    }
+    .fighter2{
+        height: auto;
+        width: 100%;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .f3{
+        margin-top: 50px;
+        height: 300px;
+        width: 80%;
+    }
+    .f4{
+        margin-top: 50px;
+        height: 300px;
+        width: 80%;
+    }
+    .fighter3{
+        height: auto;
+        width: 100%;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .f5{
+        margin-top: 50px;
+        height: 300px;
+        width: 80%;
+    }
+    .f6{
+        margin-top: 50px;
+        height: 300px;
+        width: 80%;
+    }
+    .f7{
+        margin-top: 50px;
+        height: 300px;
+        width: 80%;
+    }
+    #a5{
+        height: auto;
+        width: 100%;
+    }
+    #a5 h1{
+        margin-top: 80px;
+        font-size: 40px;
+    }
+    #a6{
+        height: auto;
+        width: 100%;
+    }
+    #a6 #a6h1{
+        font-size: 40px;
+    }
+    .plans{
+        height: auto;
+        width: 90%;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin-top: 50px;
+        /* justify-content: center; */
+    }
+    .plan1,.plan2{
+        height: 520px;
+        width: 45%;
+    }
+    .plan3{
+        height: 520px;
+        width: 45%;
+        margin-left: 27%;
+        margin-top: 50px;
+    }
+    .plan1 h2{
+        top: 50px;
+        font-size: 25px;
+        left: 55px;
+    }
+    .plan1 #p1{
+        top: 280px;
+    }
+    .plan1 #p2{
+        top: 320px;
+    }
+    .plan1 #p3{
+        top: 360px;
+    }
+    .plan1 button{
+        right: 45px;
+    }
+    .plan2 h2{
+        top: 50px;
+        font-size: 25px;
+        left: 70px;
+    }
+    .plan2 #p1{
+        top: 280px;
+    }
+    .plan2 #p2{
+        top: 320px;
+    }
+    .plan2 #p3{
+        top: 360px;
+    }
+    .plan2 button{
+        right: 45px;
+    }
+    .plan3 h2{
+        top: 50px;
+        font-size: 25px;
+        left: 30px;
+    }
+    .plan3 #p1{
+        top: 280px;
+    }
+    .plan3 #p2{
+        top: 320px;
+    }
+    .plan3 #p3{
+        top: 360px;
+    }
+    .plan3 button{
+        right: 45px;
+    }
+    footer{
+        height: auto;
+        width: 100%;
+    }
+    .foo{
+        width: 90%;
+        height: auto;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    .foo1,.foo2,.foo3,.foo4{
+        width: 47%;
+        margin-top: 50px;
+    }
+    .foo2{
+        margin-top: 120px;
+    }
+    .foo4{
+        height: 250px;
+        margin-bottom: 15px;
+    }
+    .foo4 input{
+        margin-top: 20px;
+        width: 250px;
+    }
+    .foo4 .send{
+        bottom: 53px;
+    }
+
+}
+
+@media(max-width:576px){
+    header{
+        height: auto;
+        width: 100%;
+        justify-content: center;
+    }
+    .subheader{
+        height: auto;
+        width: 100%;
+        justify-content: center;
+    }
+    .sub{
+        height: auto;
+        width: 100%;
+        justify-content: center;
+        flex-wrap: wrap ;
+    }
+    .logo{
+        height: auto;
+        width: 50%;
+    }
+    nav{
+        height: auto;
+        width: 75%;
+    }
+    nav ul{
+        justify-content: space-evenly;
+    }
+    nav ul li a{
+        font-size: 14px;
+    }
+    .button{
+        width: 22%;
+        margin-right: 10px;
+    }
+    .button button{
+        height: 30px;
+        width: 130px;
+        font-size: 14px;
+    }
+    .best{
+        height: 350px;
+        width: 90%;
+       margin-left: 20px; 
+       margin-top: 80px;
+    }
+    .best h1{
+        font-size: 20px;
+    }
+    .best p{
+        font-size: 13px;
+    }
+    .best button{
+        height: 40px;
+        width: 150px;
+        font-size: 14px;
+    }
+
+    #a2{
+        height: auto;
+        width: 100%;
+    }
+    .find{
+        height: auto;
+        width: 90%;
+        flex-wrap: wrap;
+    }
+    .find1{
+        height: auto;
+        width: 90%;
+    }
+    .find2{
+        height: auto;
+        width: 100%;
+    }
+    .find2 h1{
+        font-size: 30px;
+    }
+    .find2 p{
+        font-size: 14px;
+    }
+    .find2 #btn2{
+        height: 45px;
+        width: 150px;
+        font-size: 15px;
+    }
+    .find2 #bu{
+        height: 45px;
+        width: 170px;
+        font-size: 15px;
+    }
+
+    #a3{
+        height: auto;
+        width: 100%;
+        /* margin-top: 50px; */
+    }
+    #a3 #a3h1{
+        margin-top: 100px;
+        font-size: 25px;
+    }
+    .latest{
+        height: 500px;
+        width: 90%;
+        margin-top: 50px;
+    }
+    .latest1 h2{
+        font-size: 18px;
+    }
+    .latest1 h3{
+        font-size: 15px;
+    }
+    .latest1 h1{
+        font-size: 23px;
+    }
+    .img3{
+        height: 60px;
+        width: 70px;
+        bottom: 35px;
+        left: 10px;
+    }
+    .img4{
+        height: 60px;
+        width: 70px;
+        bottom: 35px;
+        right: 10px;
+    }
+
+    #a4{
+        height: auto;
+        width: 100%;
+    }
+    #a4 #a4h1{
+        margin-top: 80px;
+        font-size: 35px;
+    }
+    .fighter{
+        height: auto;
+        width: 100%;
+    }
+    .fighter{
+        height: auto;
+        width:90%;
+        flex-wrap: wrap;
+    }
+    .fighter1{
+        height: auto;
+        width: 100%;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 40px;
+    }
+    .f1{
+        height: 300px;
+        width: 90%;
+        margin-top: 50px;
+    }
+    .f2{
+        height: 300px;
+        margin-top: 50px;
+        width: 90%;
+    }
+    .fighter2{
+        height: auto;
+        width: 100%;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .f3{
+        margin-top: 50px;
+        height: 300px;
+        width: 90%;
+    }
+    .f4{
+        margin-top: 50px;
+        height: 300px;
+        width: 90%;
+    }
+    .fighter3{
+        height: auto;
+        width: 100%;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .f5{
+        margin-top: 50px;
+        height: 300px;
+        width: 90%;
+    }
+    .f6{
+        margin-top: 50px;
+        height: 300px;
+        width: 90%;
+    }
+    .f7{
+        margin-top: 50px;
+        height: 300px;
+        width: 90%;
+    }
+    #a5{
+        height: auto;
+        width: 100%;
+    }
+    #a5 h1{
+        margin-top: 80px;
+        font-size: 35px;
+    }
+
+    #a6{
+        height: auto;
+        width: 100%;
+    }
+    #a6 #a6h1{
+        font-size: 40px;
+    }
+    .plans{
+        height: auto;
+        width: 70%;
+        flex-direction: column;
+        margin-top: 50px;
+        align-items: flex-start;
+    }
+    .plan1,.plan2,.plan3{
+        height: 520px;
+        width: 100%;
+    }
+    .plan3{
+        margin-left: 0;
+        margin-top: 0;
+    }
+    .plan1 h2{
+        top: 50px;
+        font-size: 25px;
+        left: 120px;
+    }
+    .plan1 #p1{
+        top: 280px;
+    }
+    .plan1 #p2{
+        top: 320px;
+    }
+    .plan1 #p3{
+        top: 360px;
+    }
+    .plan1 button{
+        right: 100px;
+    }
+    .plan2 h2{
+        top: 50px;
+        font-size: 25px;
+        left: 120px;
+    }
+    .plan2 button{
+        right: 100px;
+    }
+    .plan2 #p1{
+        top: 280px;
+    }
+    .plan2 #p2{
+        top: 320px;
+    }
+    .plan2 #p3{
+        top: 360px;
+    }
+    .plan3 h2{
+        top: 50px;
+        font-size: 25px;
+        left: 90px;
+    }
+    .plan3 button{
+        right: 100px;
+    }
+    .plan3 #p1{
+        top: 280px;
+    }
+    .plan3 #p2{
+        top: 320px;
+    }
+    .plan3 #p3{
+        top: 360px;
+    }
+
+    footer{
+        height: auto;
+        width: 100%;
+    }
+    .foo{
+        width: 90%;
+        height: auto;
+        flex-direction: column;
+    }
+    .foo1,.foo2,.foo3,.foo4{
+        width: 90%;
+        margin-top: 50px;
+    }
+    .foo4{
+        height: 250px;
+    }
+    .foo4 input{
+        margin-top: 20px;
+        width: 350px;
+    }
+    .foo4 .send{
+        right: 75px;
+        bottom: 78px;
+    }
+
+}
+
+@media(max-width:480px){
+    header{
+        height: auto;
+        width: 100%;
+        justify-content: center;
+    }
+    .subheader{
+        height: auto;
+        width: 100%;
+        justify-content: center;
+    }
+    .sub{
+        height: auto;
+        width: 100%;
+        justify-content: center;
+        flex-wrap: wrap ;
+    }
+    .logo{
+        height: auto;
+        width: 50%;
+    }
+    nav{
+        height: auto;
+        width: 75%;
+    }
+    nav ul{
+        justify-content: space-evenly;
+    }
+    nav ul li a{
+        font-size: 14px;
+    }
+    .button{
+        width: 22%;
+        margin-right: 10px;
+    }
+    .button button{
+        height: 30px;
+        width: 130px;
+        font-size: 14px;
+    }
+    .best{
+        height: 350px;
+        width: 90%;
+       margin-left: 20px; 
+       margin-top: 80px;
+    }
+    .best h1{
+        font-size: 20px;
+    }
+    .best p{
+        font-size: 13px;
+    }
+    .best button{
+        height: 40px;
+        width: 150px;
+        font-size: 14px;
+    }
+
+    #a2{
+        height: auto;
+        width: 100%;
+    }
+    .find{
+        height: auto;
+        width: 90%;
+        flex-wrap: wrap;
+    }
+    .find1{
+        height: auto;
+        width: 100%;
+    }
+    .find2{
+        height: auto;
+        width: 100%;
+    }
+    .find2 h1{
+        font-size: 25px;
+    }
+    .find2 p{
+        font-size: 14px;
+    }
+    .find2 #btn2{
+        height: 40px;
+        width: 150px;
+        font-size: 14px;
+    }
+    .find2 #bu{
+        height: 40px;
+        width: 170px;
+        font-size: 14px;
+    }
+
+    #a3{
+        height: auto;
+        width: 100%;
+        /* margin-top: 50px; */
+    }
+    #a3 #a3h1{
+        margin-top: 100px;
+        font-size: 25px;
+    }
+    .latest{
+        margin-top: 50px;
+        height: 500px;
+        width: 90%;
+    }
+    .latest1 h2{
+        font-size: 18px;
+    }
+    .latest1 h3{
+        font-size: 15px;
+    }
+    .latest1 h1{
+        font-size: 23px;
+    }
+    .img3{
+        height: 60px;
+        width: 70px;
+        bottom: 30px;
+        left: 10px;
+    }
+    .img4{
+        height: 60px;
+        width: 70px;
+        bottom: 30px;
+        right: 10px;
+    }
+
+    #a4{
+        height: auto;
+        width: 100%;
+    }
+    #a4 #a4h1{
+        margin-top: 80px;
+        font-size: 35px;
+    }
+    .fighter{
+        height: auto;
+        width: 100%;
+    }
+    .fighter{
+        height: auto;
+        width:90%;
+        flex-wrap: wrap;
+    }
+    .fighter1{
+        height: auto;
+        width: 100%;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 40px;
+    }
+    .f1{
+        height: 300px;
+        width: 90%;
+        margin-top: 50px;
+    }
+    .f2{
+        height: 300px;
+        margin-top: 50px;
+        width: 90%;
+    }
+    .fighter2{
+        height: auto;
+        width: 100%;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .f3{
+        margin-top: 50px;
+        height: 300px;
+        width: 90%;
+    }
+    .f4{
+        margin-top: 50px;
+        height: 300px;
+        width: 90%;
+    }
+    .fighter3{
+        height: auto;
+        width: 100%;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .f5{
+        margin-top: 50px;
+        height: 300px;
+        width: 90%;
+    }
+    .f6{
+        margin-top: 50px;
+        height: 300px;
+        width: 90%;
+    }
+    .f7{
+        margin-top: 50px;
+        height: 300px;
+        width: 90%;
+    }
+    #a5{
+        height: auto;
+        width: 100%;
+    }
+    #a5 h1{
+        margin-top: 80px;
+        font-size: 30px;
+    }
+
+    #a6{
+        height: auto;
+        width: 100%;
+    }
+    #a6 #a6h1{
+        font-size: 30px;
+    }
+    .plans{
+        height: auto;
+        width: 80%;
+        flex-direction: column;
+        margin-top: 50px;
+    }
+    .plan1,.plan2,.plan3{
+        height: 520px;
+        width: 100%;
+    }
+    .plan1 h2{
+        top: 50px;
+        font-size: 25px;
+        left: 100px;
+    }
+    .plan1 button{
+        right: 100px;
+    }
+    .plan2 h2{
+        top: 50px;
+        font-size: 25px;
+        left: 100px;
+    }
+    .plan2 button{
+        right: 100px;
+    }
+    .plan3 h2{
+        top: 50px;
+        font-size: 25px;
+        left: 75px;
+    }
+    .plan3 button{
+        right: 100px;
+    }
+
+    footer{
+        height: auto;
+        width: 100%;
+    }
+    .foo{
+        width: 90%;
+        height: auto;
+        flex-direction: column;
+    }
+    .foo1,.foo2,.foo3,.foo4{
+        width: 90%;
+        margin-top: 50px;
+    }
+    .foo4{
+        height: 250px;
+    }
+    .foo4 input{
+        margin-top: 20px;
+        width: 350px;
+    }
+    .foo4 .send{
+        right: 30px;
+        bottom: 53px;
+    }
+}
