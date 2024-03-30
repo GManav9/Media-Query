@@ -1,0 +1,1078 @@
+@media(max-width:980px){
+    header{
+        height: auto;
+        width: 100%;
+    }
+    .subheader1{
+        height: auto;
+        width: 100%;
+        display: none;
+    }
+    .subheader2{
+        height: auto;
+        width: 100%;
+    }
+    .sub1{
+        height: auto;
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .logo{
+        height: auto;
+        width: 100%;
+        text-align: center;
+    }
+    .logo h1{
+        font-size: 35px;
+    }
+    .logo h6{
+        font-size: 15px;
+    }
+    nav{
+        height: auto;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        margin-top: 20px;
+    }
+    nav ul{
+        height: auto;
+        width: 100%;
+        justify-content: space-evenly;
+    }
+    nav ul li a{
+        font-size: 19px;
+        font-weight: normal;
+    }
+    .btn{
+        margin-top: 10px;
+        height: auto;
+        width: 50%;
+    }
+    .btn button{
+        height: 40px;
+        width: 180px;
+        font-size: 12px;
+        font-weight: normal;
+    }
+    .your{
+        width: 100%;
+        margin: 0;
+    }
+    .your h1{
+        padding-top: 80px;
+        font-size: 50px
+    }
+    .your p{
+        width: 60%;
+        font-size: 18px;
+        margin-left: 200px;
+    }
+    .your button{
+        height: 45px;
+        width: 190px;
+        font-size: 14px;
+        font-weight: normal;
+    }
+    #a1{
+        height: auto;
+        width: 100%;
+    }
+    .cate{
+        height: auto;
+        width: 90%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .cate1,.cate2,.cate3,.cate4{
+        height: 220px;
+        width: 24%;
+    }
+    .city{
+        height: auto;
+        width: 80%;
+    }
+    #a2{
+        height: auto;
+        width: 100%;
+    }
+    #a2 .le h6{
+        font-size: 20px;
+    }
+    #a2 .le h1{
+        font-size: 50px;
+    }
+    .feature{
+        height: auto;
+        width: 80%;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+    .fea1,.fea2,.fea3,.fea4{
+        height: 500px;
+        width: 48%;
+        margin-top: 50px;
+    }
+    #a3{
+        width: 100%;
+        margin-top: 50px;
+    }
+    .modern{
+        height: auto;
+        width: 80%;
+    }
+    .modern h1{
+        font-size: 45px;
+    }
+    .modern p{
+        font-size: 19px;
+    }
+    .play{
+        margin-top: 30px;
+        height: 85px;
+        width: 85px;
+    }
+    .fa-play{
+        font-size: 33px;
+    }
+    #a4{
+        height: auto;
+        margin-top: 30px;
+    }
+    .about{
+        height: auto;
+        width: 95%;
+        /* flex-direction: column; */
+    }
+    .about1{
+        height: 850px;
+        width: 40%;
+    }
+    .about2{
+        height: auto;
+        width: 55%;
+        margin-top: 30px;
+    }
+    .ab1{
+        height: auto;
+    }
+    .ab1 h6{
+        font-size: 16px;
+    }
+    .ab1 h1{
+        font-size: 27px;
+    }
+    .ab1 p{
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .abnum{
+        height: auto;
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    .num1,.num2,.num3,.num4{
+        width: 45%;
+        height: auto;
+        margin-top: 20px;
+    }
+    .ab2{
+        height: 370px;
+        width: 100%;
+        margin-top: 30px;
+    }
+    #a5{
+        margin-top: 50px;
+        height: auto;
+        width: 100%;
+    }
+    #a5 h6{
+        font-size: 20px;
+    }
+    #a5 h1{
+        font-size: 45px;
+    }
+    .blog{
+        height: auto;
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    .blog1,.blog2,.blog3,.blog4{
+        height: 560px;
+        width: 43%;
+        margin-top: 40px;
+    }
+    #a6{
+        height: auto;
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    .a61,.a62,.a63,.a64,.a65,.a65,.a66{
+        width: 45%;
+        height: 300px;
+        margin-top: 20px;
+    }
+    footer{
+        height: auto;
+        width: 100%;
+    }
+    .foo{
+        height: auto;
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+
+    }
+    .foo1,.foo2,.foo3,.foo4,.foo5{
+        height: 250px;
+        width: 45%;
+        margin-top: 30px;
+    }
+    .foo5{
+        margin-right: 475px;
+    }
+}
+
+@media(max-width:720px){
+    header{
+        height: auto;
+        width: 100%;
+    }
+    .subheader1{
+        height: auto;
+        width: 100%;
+        display: none;
+    }
+    .subheader2{
+        height: auto;
+        width: 100%;
+    }
+    .sub1{
+        height: auto;
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .logo{
+        height: auto;
+        width: 100%;
+        text-align: center;
+    }
+    .logo h1{
+        font-size: 35px;
+    }
+    .logo h6{
+        font-size: 15px;
+    }
+    nav{
+        height: auto;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        margin-top: 20px;
+    }
+    nav ul{
+        height: auto;
+        width: 100%;
+        justify-content: space-evenly;
+    }
+    nav ul li a{
+        font-size: 19px;
+        font-weight: normal;
+    }
+    .btn{
+        margin-top: 10px;
+        height: auto;
+        width: 50%;
+    }
+    .btn button{
+        height: 40px;
+        width: 180px;
+        font-size: 12px;
+        font-weight: normal;
+    }
+    .your{
+        width: 100%;
+        margin: 0;
+        /* border: 1px solid red; */
+    }
+    .your h1{
+        padding-top: 80px;
+        font-size: 45px
+    }
+    .your p{
+        width: 80%;
+        font-size: 18px;
+        margin-left: 50px;
+    }
+    .your button{
+        height: 45px;
+        width: 190px;
+        font-size: 14px;
+        font-weight: normal;
+    }
+    #a1 h1{
+        font-size: 33px;
+    }
+    .cate{
+        height: auto;
+        width: 80%;
+        flex-direction: column;
+    }
+    .cate1,.cate2,.cate3,.cate4{
+        height: 220px;
+        width: 100%;
+        margin-top: 10px;
+    }
+    .city{
+        height: auto;
+        width: 90%;
+    }
+    .city1{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+        border: 0;
+    }
+    .vil1,.vil2,.vil3{
+        height: auto;
+        width: 100%;
+        border-bottom: 1px dotted black;
+        margin-top: 20px;
+    }
+    .city2{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+        margin-top: 50px;
+        border: 0;
+    }
+    .vil4,.vil5,.vil6{
+        height: auto;
+        width: 100%;
+        border-bottom: 1px dotted black;
+        margin-top: 20px;
+    }
+    .city3{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+        margin-top: 50px;
+        border: 0;
+    }
+    .vil7,.vil8,.vil9{
+        height: auto;
+        width: 100%;
+        border-bottom: 1px dotted black;
+        margin-top: 20px;
+    }
+    .city4{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+        margin-top: 50px;
+        border: 0;
+    }
+    .vil10,.vil11,.vil12{
+        height: auto;
+        width: 100%;
+        border-bottom: 1px dotted black;
+        margin-top: 20px;
+    }
+    #a2{
+        height: auto;
+        width: 100%;
+    }
+    #a2 .le h6{
+        font-size: 18px;
+    }
+    #a2 .le h1{
+        font-size: 45px;
+    }
+    .feature{
+        height: auto;
+        width: 90%;
+        flex-direction: column;
+    }
+    .fea1,.fea2,.fea3,.fea4{
+        height: 500px;
+        width: 90%;
+        margin-top: 40px;
+    }
+    #a3{
+        width: 100%;
+        margin-top: 50px;
+    }
+    .modern{
+        height: auto;
+        width: 80%;
+    }
+    .modern h1{
+        font-size: 40px;
+    }
+    .modern p{
+        font-size: 17px;
+    }
+    .play{
+        margin-top: 30px;
+        height: 75px;
+        width: 75px;
+    }
+    .fa-play{
+        font-size: 30px;
+    }
+    #a4{
+        height: auto;
+        margin-top: 30px;
+    }
+    .about{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+    }
+    .about1{
+        height: auto;
+        width: 80%;
+    }
+    .about2{
+        height: auto;
+        width: 80%;
+        margin-top: 30px;
+    }
+    .ab1{
+        height: auto;
+    }
+    .ab1 h6{
+        font-size: 18px;
+    }
+    .ab1 h1{
+        font-size: 32px;
+    }
+    .ab1 p{
+        font-size: 17px;
+        line-height: 22px;
+    }
+    .abnum{
+        height: auto;
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    .num1,.num2,.num3,.num4{
+        width: 45%;
+        height: auto;
+        margin-top: 20px;
+    }
+    .ab2{
+        height: 400px;
+        width: 100%;
+        margin-top: 30px;
+    }
+    #a5{
+        margin-top: 50px;
+        height: auto;
+        width: 100%;
+    }
+    #a5 h6{
+        font-size: 20px;
+    }
+    #a5 h1{
+        font-size: 45px;
+    }
+    .blog{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+    }
+    .blog1,.blog2,.blog3,.blog4{
+        height: 560px;
+        width: 90%;
+        margin-top: 40px;
+    }
+    #a6{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+    }
+    .a61,.a62,.a63,.a64,.a65,.a65,.a66{
+        width: 80%;
+        height: 300px;
+        margin-top: 10px;
+    }
+    footer{
+        height: auto;
+        width: 100%;
+    }
+    .foo{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+    }
+    .foo1,.foo2,.foo3,.foo4,.foo5{
+        height: 250px;
+        width: 90%;
+    }
+
+}
+
+@media(max-width:576px){
+    header{
+        height: auto;
+        width: 100%;
+    }
+    .subheader1{
+        height: auto;
+        width: 100%;
+        display: none;
+    }
+    .subheader2{
+        height: auto;
+        width: 100%;
+    }
+    .sub1{
+        height: auto;
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .logo{
+        height: auto;
+        width: 100%;
+        text-align: center;
+    }
+    .logo h1{
+        font-size: 25px;
+    }
+    .logo h6{
+        font-size: 10px;
+    }
+    nav{
+        height: auto;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        margin-top: 20px;
+    }
+    nav ul{
+        height: auto;
+        width: 100%;
+        justify-content: space-evenly;
+    }
+    nav ul li a{
+        font-size: 15px;
+        font-weight: normal;
+    }
+    .btn{
+        margin-top: 10px;
+        height: auto;
+        width: 50%;
+    }
+    .btn button{
+        height: 35px;
+        width: 160px;
+        font-size: 10px;
+        font-weight: normal;
+    }
+    .your{
+        width: 100%;
+        margin: 0;
+        /* border: 1px solid red; */
+    }
+    .your h1{
+        padding-top: 80px;
+        font-size: 40px
+    }
+    .your p{
+        width: 80%;
+        font-size: 16px;
+        margin-left: 50px;
+    }
+    .your button{
+        height: 45px;
+        width: 170px;
+        font-size: 12px;
+        font-weight: normal;
+    }
+    #a1 h1{
+        font-size: 30px;
+    }
+    .cate{
+        height: auto;
+        width: 90%;
+        flex-direction: column;
+    }
+    .cate1,.cate2,.cate3,.cate4{
+        height: 220px;
+        width: 100%;
+        margin-top: 10px;
+    }
+    .city{
+        height: auto;
+        width: 90%;
+    }
+    .city1{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+        border: 0;
+    }
+    .vil1,.vil2,.vil3{
+        height: auto;
+        width: 100%;
+        border-bottom: 1px dotted black;
+        margin-top: 20px;
+    }
+    .city2{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+        margin-top: 50px;
+        border: 0;
+    }
+    .vil4,.vil5,.vil6{
+        height: auto;
+        width: 100%;
+        border-bottom: 1px dotted black;
+        margin-top: 20px;
+    }
+    .city3{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+        margin-top: 50px;
+        border: 0;
+    }
+    .vil7,.vil8,.vil9{
+        height: auto;
+        width: 100%;
+        border-bottom: 1px dotted black;
+        margin-top: 20px;
+    }
+    .city4{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+        margin-top: 50px;
+        border: 0;
+    }
+    .vil10,.vil11,.vil12{
+        height: auto;
+        width: 100%;
+        border-bottom: 1px dotted black;
+        margin-top: 20px;
+    }
+    #a2{
+        height: auto;
+        width: 100%;
+    }
+    #a2 .le h6{
+        font-size: 17px;
+    }
+    #a2 .le h1{
+        font-size: 40px;
+    }
+    .feature{
+        height: auto;
+        width: 90%;
+        flex-direction: column;
+    }
+    .fea1,.fea2,.fea3,.fea4{
+        height: 430px;
+        width: 90%;
+        margin-top: 35px;
+    }
+    #a3{
+        width: 100%;
+        margin-top: 50px;
+    }
+    .modern{
+        height: auto;
+        width: 80%;
+    }
+    .modern h1{
+        font-size: 35px;
+    }
+    .modern p{
+        font-size: 15px;
+    }
+    .play{
+        margin-top: 30px;
+        height: 65px;
+        width: 65px;
+    }
+    .fa-play{
+        font-size: 28px;
+    }
+    #a4{
+        height: auto;
+        margin-top: 30px;
+    }
+    .about{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+    }
+    .about1{
+        height: auto;
+        width: 95%;
+    }
+    .about2{
+        height: auto;
+        width: 95%;
+        margin-top: 30px;
+    }
+    .ab1{
+        height: auto;
+    }
+    .ab1 h6{
+        font-size: 16px;
+    }
+    .ab1 h1{
+        font-size: 27px;
+    }
+    .ab1 p{
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .abnum{
+        height: auto;
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    .num1,.num2,.num3,.num4{
+        width: 45%;
+        height: auto;
+        margin-top: 20px;
+    }
+    .ab2{
+        height: 400px;
+        width: 100%;
+        margin-top: 30px;
+    }
+    #a5{
+        height: auto;
+        width: 100%;
+    }
+    #a5 h6{
+        font-size: 18px;
+    }
+    #a5 h1{
+        font-size: 40px;
+    }
+    .blog{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+    }
+    .blog1,.blog2,.blog3,.blog4{
+        height: 500px;
+        width: 90%;
+        margin-top: 40px;
+    }
+    #a6{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+    }
+    .a61,.a62,.a63,.a64,.a65,.a65,.a66{
+        width: 90%;
+        height: 300px;
+        margin-top: 10px;
+    }
+    footer{
+        height: auto;
+        width: 100%;
+    }
+    .foo{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+    }
+    .foo1,.foo2,.foo3,.foo4,.foo5{
+        height: 250px;
+        width: 90%;
+    }
+}
+
+@media(max-width:480px){
+    header{
+        height: auto;
+        width: 100%;
+    }
+    .subheader1{
+        height: auto;
+        width: 100%;
+        display: none;
+    }
+    .subheader2{
+        height: auto;
+        width: 100%;
+    }
+    .sub1{
+        height: auto;
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .logo{
+        height: auto;
+        width: 100%;
+        text-align: center;
+    }
+    .logo h1{
+        font-size: 25px;
+    }
+    .logo h6{
+        font-size: 10px;
+    }
+    nav{
+        height: auto;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        margin-top: 20px;
+    }
+    nav ul{
+        height: auto;
+        width: 100%;
+        justify-content: space-evenly;
+    }
+    nav ul li a{
+        font-size: 14px;
+        font-weight: normal;
+    }
+    .btn{
+        margin-top: 10px;
+        height: auto;
+        width: 50%;
+    }
+    .btn button{
+        height: 30px;
+        width: 150px;
+        font-size: 10px;
+        font-weight: normal;
+    }
+    .your{
+        width: 100%;
+        margin: 0;
+        /* border: 1px solid red; */
+    }
+    .your h1{
+        padding-top: 80px;
+        font-size: 35px
+    }
+    .your p{
+        width: 80%;
+        font-size: 14px;
+        margin-left: 50px;
+    }
+    .your button{
+        height: 40px;
+        width: 160px;
+        font-size: 12px;
+        font-weight: normal;
+    }
+    #a1{
+        height: auto;
+        width: 100%;
+    }
+    #a1 h1{
+        font-size: 27px;
+    }
+    .cate{
+        height: auto;
+        width: 90%;
+        flex-direction: column;
+    }
+    .cate1,.cate2,.cate3,.cate4{
+        height: 220px;
+        width: 100%;
+        margin-top: 10px;
+    }
+    .city{
+        height: auto;
+        width: 90%;
+    }
+    .city1{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+        border: 0;
+    }
+    .vil1,.vil2,.vil3{
+        height: auto;
+        width: 100%;
+        border-bottom: 1px dotted black;
+        margin-top: 20px;
+    }
+    .city2{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+        margin-top: 50px;
+        border: 0;
+    }
+    .vil4,.vil5,.vil6{
+        height: auto;
+        width: 100%;
+        border-bottom: 1px dotted black;
+        margin-top: 20px;
+    }
+    .city3{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+        margin-top: 50px;
+        border: 0;
+    }
+    .vil7,.vil8,.vil9{
+        height: auto;
+        width: 100%;
+        border-bottom: 1px dotted black;
+        margin-top: 20px;
+    }
+    .city4{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+        margin-top: 50px;
+        border: 0;
+    }
+    .vil10,.vil11,.vil12{
+        height: auto;
+        width: 100%;
+        border-bottom: 1px dotted black;
+        margin-top: 20px;
+    }
+    #a2{
+        height: auto;
+        width: 100%;
+    }
+    #a2 .le h6{
+        font-size: 16px;
+    }
+    #a2 .le h1{
+        font-size: 35px;
+    }
+    .feature{
+        height: auto;
+        width: 90%;
+        flex-direction: column;
+    }
+    .fea1,.fea2,.fea3,.fea4{
+        height: 430px;
+        width: 90%;
+        margin-top: 30px;
+    }
+    #a3{
+        width: 100%;
+    }
+    .modern{
+        height: auto;
+        width: 80%;
+    }
+    .modern h1{
+        font-size: 32px;
+    }
+    .modern p{
+        font-size: 14px;
+    }
+    .play{
+        height: 50px;
+        width: 50px;
+    }
+    .fa-play{
+        font-size: 25px;
+    }
+    #a4{
+        height: auto;
+        margin-top: 30px;
+    }
+    .about{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+    }
+    .about1{
+        height: auto;
+        width: 95%;
+    }
+    .about2{
+        height: auto;
+        width: 95%;
+        margin-top: 30px;
+    }
+    .ab1{
+        height: auto;
+    }
+    .ab1 h6{
+        font-size: 16px;
+    }
+    .ab1 h1{
+        font-size: 27px;
+    }
+    .ab1 p{
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .abnum{
+        height: auto;
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    .num1,.num2,.num3,.num4{
+        width: 45%;
+        height: auto;
+        margin-top: 20px;
+    }
+    .ab2{
+        height: 400px;
+        width: 100%;
+        margin-top: 30px;
+    }
+    #a5{
+        height: auto;
+        width: 100%;
+    }
+    #a5 h6{
+        font-size: 18px;
+    }
+    #a5 h1{
+        font-size: 40px;
+    }
+    .blog{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+    }
+    .blog1,.blog2,.blog3,.blog4{
+        height: 560px;
+        width: 90%;
+        margin-top: 40px;
+    }
+    #a6{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+    }
+    .a61,.a62,.a63,.a64,.a65,.a65,.a66{
+        width: 90%;
+        height: 300px;
+        margin-top: 10px;
+    }
+    footer{
+        height: auto;
+        width: 100%;
+    }
+    .foo{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+    }
+    .foo1,.foo2,.foo3,.foo4,.foo5{
+        height: 250px;
+        width: 90%;
+    }
+}
