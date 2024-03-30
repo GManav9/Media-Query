@@ -1,0 +1,1044 @@
+@media(max-width:980px){
+    header{
+        height: 600px;
+        width: 100%;
+    }
+    .subheader{
+        height: auto;
+        width: 100%;
+    }
+    .sub{
+        height: auto;
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .logo{
+        width: 20%;
+    }
+    nav{
+        height: auto;
+        width: 80%;
+    }
+    nav ul li a{
+        font-size: 20px;
+    }
+    nav ul{
+        justify-content: space-evenly;
+    }
+    .other{
+        height: auto;
+        width: 35%;
+    }
+    .other a{
+        font-size: 20px;
+    }
+    .fa-magnifying-glass,.fa-shuffle,.fa-heart,.fa-cart-shopping{
+        font-size: 20px;
+    }
+    .other1{
+        height: auto;
+        width: 42%;
+        margin-left: 25px;
+    }
+    .instruction{
+        height: auto;
+        width: 400px;
+        margin-left: 30px;
+        margin-top: 110px;
+    }
+    .instruction h1{
+        font-size: 55px;
+    }
+    .instruction p{
+        font-size: 17px;
+    }
+    .instruction #btn1{
+        height: 45px;
+        width:110px;
+        font-size: 15px;
+    }
+    .instruction #btn2{
+        height: 45px;
+        width: 145px;
+        font-size: 15px;
+    }
+    #a1{
+        height: auto;
+        width: 100%;
+    }
+    .cat{
+        height: auto;
+        width: 95%;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    .cat1,.cat2,.cat3,.cat4,.cat5,.cat6{
+        width: 30%;
+        height: 230px;
+        margin-top: 20px;
+    }
+    #a2{
+        height: auto;
+        width: 100%;
+        margin-top: 50px;
+    }
+    .a2text{
+        height: auto;
+    }
+    .a2text h1{
+        font-size: 50px;
+    }
+    .backcover{
+        height: auto;
+        width: 95%;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    .back1,.back2,.back3,.back4,.back5,.back6,.back7,.back8,.back9,.back10{
+        height: 350px;
+        width: 28%;
+        margin-top: 30px;
+    }
+    .back10{
+        margin-right: 64%;
+    }
+    #a3{
+        height: auto;
+        width: 100%;
+        margin-top: 40px;
+    }
+    .provide{
+        height: auto;
+        width: 95%;
+        margin-top: 20px;
+    }
+    .p1{
+        height: auto;
+    }
+    .p1 h4{
+        font-size: 17px;
+    }
+    .p1 h1{
+        font-size: 27px;
+    }
+    .p1 h5{
+        font-size: 16px;
+    }
+    .best{
+        height: auto;
+        width: 100%;
+        margin-top: 10px;
+        /* flex-direction: column; */
+    }
+    .best1,.best2,.best3{
+        height: 265px;
+        width: 30%;
+        margin-top: 20px;
+    }
+    .best1 h2,.best2 h2,.best3 h2{
+        font-size: 30px;
+    }
+    .best1 p,.best2 p,.best3 p{
+        font-size: 18px;
+    }
+    #a4{
+        height: auto;
+        width: 100%;
+        margin-top: 30px;
+    }
+    .premium1,.premium2{
+        height: auto;
+        width: 100%;
+    }
+    .prem1{
+        height: 400px;
+        width: 41%;
+        background-size: auto;
+    }
+    .prem2{
+        height: 400px;
+        width: 57%;
+        background-size: auto;
+    }
+    .prem3{
+        height: 400px;
+        width: 57%;
+        background-size: auto;
+    }
+    .prem4{
+        height: 400px;
+        width: 41%;
+        background-size: auto;
+    }
+    #a5{
+        height: auto;
+        width: 100%;
+        margin-top: 40px;
+    }
+    .interest h4{
+        font-size: 18px;
+    }
+    .interest h1{
+        font-size: 35px;
+    }
+    .interest h5{
+        font-size: 17px;
+    }
+    .watch{
+        height: auto;
+        width: 95%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        /* flex-direction: column; */
+    }
+    .watch1,.watch2,.watch3,.watch4{
+        width: 40%;
+        height: 350px;
+        margin-top: 30px;
+    }
+    .watch1 h4,.watch2 h4,.watch3 h4,.watch4 h4{
+        font-size: 20px;
+    }
+    .mega span{
+        font-size: 20px;
+    }
+    #a6{
+        height: auto;
+        width: 95%;
+        flex-wrap: wrap;
+        margin-left: 2.5%;
+        margin-top: 40px;
+    }
+    .photo1,.photo2,.photo3,.photo4,.photo5,.photo6,.photo7,.photo8{
+        width: 25%;
+        height: 300px;
+    }
+    footer{
+        height: auto;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .foo1{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .logo2{
+        height: 100px;
+        width: 30%;
+    }
+    .a2{
+        height: auto;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .a2 a{
+        font-size: 20px;
+    }
+    .dis{
+        width: 70%;
+        font-size: 18px;
+    }
+}
+
+
+@media(max-width:720px){
+    header{
+        height: 600px;
+        width: 100%;
+    }
+    .subheader{
+        height: auto;
+        width: 100%;
+    }
+    .sub{
+        height: auto;
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .logo{
+        width: 35%;
+    }
+    nav{
+        height: auto;
+        width: 100%;
+    }
+    nav ul li a{
+        font-size: 18px;
+    }
+    nav ul{
+        justify-content: space-evenly;
+    }
+    .other{
+        height: auto;
+        width: 50%;
+    }
+    .other a{
+        font-size: 18px;
+    }
+    .fa-magnifying-glass,.fa-shuffle,.fa-heart,.fa-cart-shopping{
+        font-size: 18px;
+    }
+    .other1{
+        height: auto;
+        width: 42%;
+        margin-left: 25px;
+    }
+    .instruction{
+        height: auto;
+        width: 400px;
+        margin-left: 20px;
+        margin-top: 110px;
+    }
+    .instruction h1{
+        font-size: 45px;
+    }
+    .instruction p{
+        font-size: 16px;
+    }
+    .instruction #btn1{
+        height: 40px;
+        width: 95px;
+        font-size: 14px;
+    }
+    .instruction #btn2{
+        height: 40px;
+        width: 125px;
+        font-size: 14px;
+    }
+    #a1{
+        height: auto;
+        width: 100%;
+    }
+    .cat{
+        height: auto;
+        width: 95%;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    .cat1,.cat2,.cat3,.cat4,.cat5,.cat6{
+        width: 40%;
+        height: 230px;
+        margin-top: 20px;
+    }
+    #a2{
+        height: auto;
+        width: 100%;
+    }
+    .a2text{
+        height: auto;
+    }
+    .a2text h1{
+        font-size: 45px;
+    }
+    .backcover{
+        height: auto;
+        width: 95%;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    .back1,.back2,.back3,.back4,.back5,.back6,.back7,.back8,.back9,.back10{
+        height: 350px;
+        width: 40%;
+        margin-top: 30px;
+    }
+
+    .back10{
+        margin-right: 0;
+    }
+    #a3{
+        height: auto;
+        width: 100%;
+    }
+    .provide{
+        height: auto;
+        width: 95%;
+        margin-top: 20px;
+    }
+    .p1{
+        height: auto;
+    }
+    .p1 h4{
+        font-size: 19px;
+    }
+    .p1 h1{
+        font-size: 35px;
+    }
+    .p1 h5{
+        font-size: 16px;
+    }
+    .best{
+        height: auto;
+        width: 100%;
+        margin-top: 10px;
+        flex-direction: column;
+    }
+    .best1,.best2,.best3{
+        height: 230px;
+        width: 85%;
+        margin-top: 20px;
+    }
+    .best1 h2,.best2 h2,.best3 h2{
+        font-size: 30px;
+    }
+    .best1 p,.best2 p,.best3 p{
+        font-size: 18px;
+    }
+    #a4{
+        height: auto;
+        width: 100%;
+    }
+    .premium1,.premium2{
+        height: auto;
+        width: 95%;
+        flex-wrap: wrap;
+    }
+    .prem1{
+        height: 300px;
+        width: 100%;
+        /* background-size: auto; */
+        border: 1px solid black;
+    }
+    .prem1 h5{
+        font-size: 18px;
+    }
+    .prem1 h1,.prem2 h1{
+        font-size: 38px;
+    }
+    .prem1 button,.prem2 button{
+        height: 40px;
+        width: 100px;
+        font-size: 14px;
+    }
+    .prem2{
+        height: 400px;
+        width: 100%;
+        background-size: auto;
+    }
+    .prem2 h5{
+        font-size: 18px;
+        margin-top: 55px;
+    }
+    .prem3{
+        height: 300px;
+        width: 100%;
+        background-size: auto;
+    }
+    .prem3 h5,.prem4 h5{
+        font-size: 18px;
+    }
+    .prem3 h1,.prem4 h1{
+        font-size: 38px;
+    }
+    .prem3 button,.prem4 button{
+        height: 40px;
+        width: 100px;
+        font-size: 14px;
+    }
+    .prem4{
+        height: 300px;
+        width: 100%;
+        margin-top: 30px;
+        /* background-size: auto; */
+    }
+    .prem4 h5{
+        font-size: 16px;
+        margin-top: 55px;
+    }
+    #a5{
+        height: auto;
+        width: 100%;
+    }
+    .interest h4{
+        font-size: 18px;
+    }
+    .interest h1{
+        font-size: 35px;
+    }
+    .interest h5{
+        font-size: 17px;
+    }
+    .watch{
+        height: auto;
+        width: 95%;
+        display: flex;
+        flex-direction: column;
+    }
+    .watch1,.watch2,.watch3,.watch4{
+        width: 80%;
+        height: 350px;
+        margin-top: 30px;
+    }
+    .watch1 h4,.watch2 h4,.watch3 h4,.watch4 h4{
+        font-size: 20px;
+    }
+    .mega span{
+        font-size: 20px;
+    }
+    #a6{
+        height: auto;
+        width: 95%;
+        flex-wrap: wrap;
+        margin-left: 2.5%;
+    }
+    .photo1,.photo2,.photo3,.photo4,.photo5,.photo6,.photo7,.photo8{
+        width: 45%;
+        height: 300px;
+    }
+    footer{
+        height: auto;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .foo1{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .logo2{
+        height: 100px;
+        width: 30%;
+    }
+    .a2{
+        height: auto;
+        width: 100%;
+    }
+    .a2 a{
+        font-size: 17px;
+    }
+    .dis{
+        width: 70%;
+        font-size: 17px;
+    }
+}
+
+@media(max-width:576px){
+    header{
+        height: 500px;
+        width: 100%;
+    }
+    .subheader{
+        height: auto;
+        width: 100%;
+    }
+    .sub{
+        height: auto;
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .logo{
+        width: 45%;
+    }
+    nav{
+        height: auto;
+        width: 100%;
+    }
+    nav ul li a{
+        font-size: 16px;
+    }
+    nav ul{
+        justify-content: space-evenly;
+    }
+    .other{
+        height: auto;
+        width: 50%;
+    }
+    .other a{
+        font-size: 16px;
+    }
+    .fa-magnifying-glass,.fa-shuffle,.fa-heart,.fa-cart-shopping{
+        font-size: 16px;
+    }
+    .other1{
+        height: auto;
+        width: 42%;
+        margin-left: 25px;
+    }
+    .instruction{
+        height: auto;
+        width: 400px;
+        margin-left: 20px;
+        margin-top: 110px;
+    }
+    .instruction h1{
+        font-size: 38px;
+    }
+    .instruction p{
+        font-size: 15px;
+    }
+    .instruction #btn1{
+        height: 33px;
+        width: 85px;
+        font-size: 12px;
+    }
+    .instruction #btn2{
+        height: 35px;
+        width: 115px;
+        font-size: 12px;
+    }
+    #a1{
+        height: auto;
+        width: 100%;
+    }
+    .cat{
+        height: auto;
+        width: 95%;
+        flex-wrap: wrap;
+    }
+    .cat1,.cat2,.cat3,.cat4,.cat5,.cat6{
+        width: 45%;
+        height: 230px;
+        margin-top: 20px;
+    }
+    #a2{
+        height: auto;
+        width: 100%;
+    }
+    .a2text{
+        height: auto;
+    }
+    .a2text h1{
+        font-size: 40px;
+    }
+    .backcover{
+        height: auto;
+        width: 95%;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    .back1,.back2,.back3,.back4,.back5,.back6,.back7,.back8,.back9,.back10{
+        height: 350px;
+        width: 45%;
+        margin-top: 30px;
+    }
+    #a3{
+        height: auto;
+        width: 100%;
+    }
+    .provide{
+        height: auto;
+        width: 95%;
+        margin-top: 20px;
+    }
+    .p1{
+        height: auto;
+    }
+    .p1 h4{
+        font-size: 17px;
+    }
+    .p1 h1{
+        font-size: 27px;
+    }
+    .p1 h5{
+        font-size: 16px;
+    }
+    .best{
+        height: auto;
+        width: 100%;
+        margin-top: 10px;
+        flex-direction: column;
+    }
+    .best1,.best2,.best3{
+        height: 230px;
+        width: 95%;
+        margin-top: 20px;
+    }
+    .best1 h2,.best2 h2,.best3 h2{
+        font-size: 30px;
+    }
+    .best1 p,.best2 p,.best3 p{
+        font-size: 18px;
+    }
+    #a4{
+        height: auto;
+        width: 100%;
+    }
+    .premium1,.premium2{
+        height: auto;
+        width: 95%;
+        flex-wrap: wrap;
+    }
+    .prem1{
+        height: 300px;
+        width: 100%;
+        /* background-size: auto; */
+        border: 1px solid black;
+    }
+    .prem1 h5{
+        font-size: 16px;
+    }
+    .prem1 h1,.prem2 h1{
+        font-size: 32px;
+    }
+    .prem1 button,.prem2 button{
+        height: 35px;
+        width: 90px;
+        font-size: 12px;
+    }
+    .prem2{
+        height: 400px;
+        width: 100%;
+        background-size: auto;
+    }
+    .prem2 h5{
+        font-size: 16px;
+        margin-top: 55px;
+    }
+    .prem3{
+        height: 300px;
+        width: 100%;
+        background-size: auto;
+    }
+    .prem3 h5,.prem4 h5{
+        font-size: 16px;
+    }
+    .prem3 h1,.prem4 h1{
+        font-size: 32px;
+    }
+    .prem3 button,.prem4 button{
+        height: 35px;
+        width: 90px;
+        font-size: 12px;
+    }
+    .prem4{
+        height: 400px;
+        width: 100%;
+        margin-top: 30px;
+        /* background-size: auto; */
+    }
+    .prem4 h5{
+        font-size: 16px;
+        margin-top: 55px;
+    }
+    #a5{
+        height: auto;
+        width: 100%;
+    }
+    .interest h4{
+        font-size: 18px;
+    }
+    .interest h1{
+        font-size: 35px;
+    }
+    .interest h5{
+        font-size: 17px;
+    }
+    .watch{
+        height: auto;
+        width: 95%;
+        display: flex;
+        flex-direction: column;
+    }
+    .watch1,.watch2,.watch3,.watch4{
+        width: 100%;
+        height: 350px;
+        margin-top: 30px;
+    }
+    .watch1 h4,.watch2 h4,.watch3 h4,.watch4 h4{
+        font-size: 20px;
+    }
+    .mega span{
+        font-size: 20px;
+    }
+    #a6{
+        height: auto;
+        width: 95%;
+        flex-wrap: wrap;
+        margin-left: 2.5%;
+    }
+    .photo1,.photo2,.photo3,.photo4,.photo5,.photo6,.photo7,.photo8{
+        width: 50%;
+        height: 300px;
+    }
+    footer{
+        height: auto;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .foo1{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .logo2{
+        height: 100px;
+        width: 30%;
+    }
+    .a2{
+        height: auto;
+        width: 100%;
+    }
+    .a2 a{
+        font-size: 14px;
+    }
+    .dis{
+        width: 70%;
+        font-size: 16px;
+    }
+}
+
+@media(max-width:480px){
+    header{
+        height: 500px;
+        width: 100%;
+    }
+    .subheader{
+        height: auto;
+        width: 100%;
+    }
+    .sub{
+        height: auto;
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .logo{
+        width: 50%;
+    }
+    nav{
+        height: auto;
+        width: 100%;
+    }
+    nav ul li a{
+        font-size: 15px;
+    }
+    nav ul{
+        justify-content: space-evenly;
+    }
+    .other{
+        height: auto;
+        width: 50%;
+    }
+    .other a{
+        font-size: 15px;
+    }
+    .fa-magnifying-glass,.fa-shuffle,.fa-heart,.fa-cart-shopping{
+        font-size: 15px;
+    }
+    .other1{
+        height: auto;
+        width: 42%;
+        margin-left: 25px;
+    }
+    .instruction{
+        height: auto;
+        width: 400px;
+        margin-left: 20px;
+        margin-top: 110px;
+    }
+    .instruction h1{
+        font-size: 35px;
+    }
+    .instruction p{
+        font-size: 15px;
+    }
+    .instruction #btn1{
+        height: 30px;
+        width: 80px;
+        font-size: 12px;
+    }
+    .instruction #btn2{
+        height: 32px;
+        width: 105px;
+        font-size: 12px;
+    }
+    #a1{
+        height: auto;
+        width: 100%;
+    }
+    .cat{
+        height: auto;
+        width: 95%;
+        flex-wrap: wrap;
+    }
+    .cat1,.cat2,.cat3,.cat4,.cat5,.cat6{
+        width: 45%;
+        height: 230px;
+        margin-top: 20px;
+    }
+    #a2{
+        height: auto;
+        width: 100%;
+    }
+    .a2text{
+        height: auto;
+    }
+    .a2text h1{
+        font-size: 40px;
+    }
+    .backcover{
+        height: auto;
+        width: 95%;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    .back1,.back2,.back3,.back4,.back5,.back6,.back7,.back8,.back9,.back10{
+        height: 350px;
+        width: 45%;
+        margin-top: 30px;
+    }
+    #a3{
+        height: auto;
+        width: 100%;
+    }
+    .provide{
+        height: auto;
+        width: 95%;
+    }
+    .p1{
+        height: auto;
+    }
+    .p1 h4{
+        font-size: 17px;
+    }
+    .p1 h1{
+        font-size: 27px;
+    }
+    .p1 h5{
+        font-size: 16px;
+    }
+    .best{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+    }
+    .best1,.best2,.best3{
+        height: 230px;
+        width: 95%;
+        margin-top: 20px;
+    }
+    .best1 h2,.best2 h2,.best3 h2{
+        font-size: 25px;
+    }
+    .best1 p,.best2 p,.best3 p{
+        font-size: 16px;
+    }
+    #a4{
+        height: auto;
+        width: 100%;
+    }
+    .premium1,.premium2{
+        height: auto;
+        width: 95%;
+        flex-wrap: wrap;
+    }
+    .prem1{
+        height: 300px;
+        width: 100%;
+        background-size: auto;
+    }
+    .prem1 h5{
+        font-size: 16px;
+    }
+    .prem1 h1,.prem2 h1{
+        font-size: 32px;
+    }
+    .prem1 button,.prem2 button{
+        height: 35px;
+        width: 90px;
+        font-size: 12px;
+    }
+    .prem2{
+        height: 400px;
+        width: 100%;
+        background-size: auto;
+    }
+    .prem2 h5{
+        font-size: 16px;
+        margin-top: 55px;
+    }
+    .prem3{
+        height: 300px;
+        width: 100%;
+        background-size: auto;
+    }
+    .prem3 h5,.prem4 h5{
+        font-size: 16px;
+    }
+    .prem3 h1,.prem4 h1{
+        font-size: 32px;
+    }
+    .prem3 button,.prem4 button{
+        height: 35px;
+        width: 90px;
+        font-size: 12px;
+    }
+    .prem4{
+        height: 400px;
+        width: 100%;
+        background-size: auto;
+    }
+    .prem4 h5{
+        font-size: 16px;
+        margin-top: 55px;
+    }
+    #a5{
+        height: auto;
+        width: 100%;
+    }
+    .interest h4{
+        font-size: 18px;
+    }
+    .interest h1{
+        font-size: 35px;
+    }
+    .interest h5{
+        font-size: 17px;
+    }
+    .watch{
+        height: auto;
+        width: 95%;
+        display: flex;
+        flex-direction: column;
+    }
+    .watch1,.watch2,.watch3,.watch4{
+        width: 100%;
+        height: 350px;
+        margin-top: 30px;
+    }
+    .watch1 h4,.watch2 h4,.watch3 h4,.watch4 h4{
+        font-size: 20px;
+    }
+    .mega span{
+        font-size: 20px;
+    }
+    #a6{
+        height: auto;
+        width: 95%;
+        flex-wrap: wrap;
+        margin-left: 2.5%;
+    }
+    .photo1,.photo2,.photo3,.photo4,.photo5,.photo6,.photo7,.photo8{
+        width: 50%;
+        height: 300px;
+    }
+    footer{
+        height: auto;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .foo1{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .logo2{
+        height: 100px;
+        width: 30%;
+    }
+    .a2{
+        height: auto;
+        width: 100%;
+    }
+    .a2 a{
+        font-size: 14px;
+    }
+    .dis{
+        width: 70%;
+        font-size: 16px;
+    }
+}

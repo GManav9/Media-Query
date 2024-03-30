@@ -1,0 +1,893 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    height: 750px;
+    width: 100%;
+    background-image: url(images/accessories-slide-2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.subheader{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}   
+.sub{
+    height: 100%;
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    height: 100%;
+    width: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo img{
+    width: 100%;
+}
+nav{
+    height: 100%;
+    width: 50%;
+}
+nav ul{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav ul li{
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #666666;
+    font-family: 'Hanken Grotesk', sans-serif;
+}
+nav ul li a:hover{
+    color:  rgb(46,107,198);
+}
+.other{
+    height: 100%;
+    width: 25%;
+    display: flex;
+    align-items: center;
+}
+.other a:hover{
+    color:  rgb(46,107,198);
+}
+.other a{
+    text-decoration: none;
+    font-family: 'Hanken Grotesk', sans-serif;
+    color: #666666;
+    font-size: 18px;
+    cursor: pointer;
+}
+.fa-magnifying-glass{
+    color: black;
+    font-size: 18px;
+    cursor: pointer;
+}
+.fa-magnifying-glass:hover{
+    color:  rgb(46,107,198);
+
+}
+.fa-shuffle{
+    color: black;
+    font-size: 18px;
+    cursor: pointer;
+}
+.fa-shuffle:hover{
+    color:  rgb(46,107,198);
+}
+.fa-heart{
+    color: black;
+    font-size: 18px;
+    cursor: pointer;
+}
+.fa-heart:hover{
+    color:  rgb(46,107,198);
+}
+.fa-cart-shopping{
+    color: black;
+    font-size: 18px;
+    cursor: pointer;
+}
+.fa-cart-shopping:hover{
+    color:  rgb(46,107,198);
+
+}
+.other1{
+    height: 100%;
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 15px;
+}
+.instruction{
+    height: 350px;
+    width: 500px;
+    margin-left: 15%;
+    margin-top: 130px;
+}
+.instruction h1{
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-size: 70px;
+    color: #242424;
+}
+.instruction p{
+    font-family: 'Jost', sans-serif;
+    color: #777777;
+    font-size: 17px;
+    padding-top: 20px;
+}
+.instruction #btn1{
+    height: 40px;
+    width: 100px;
+    background-color: rgb(46,107,198);
+    border: 1px solid  rgb(46,107,198);
+    color: white;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    border-radius: 5px;
+    margin-top: 50px;
+    cursor: pointer;
+    transition: 1s;
+}
+.instruction #btn1:hover{
+    background-color: transparent;
+    color: #0a0a0a;
+}
+.instruction #btn2{
+    height: 40px;
+    width: 120px;
+    border:1px solid #777777;
+    background-color: transparent;
+    color: #777777;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    border-radius: 5px;
+    font-size: 13px;
+    cursor: pointer;
+    transition: 1s;
+}
+.instruction #btn2:hover{
+    background-color: rgb(46,107,198);
+    border: 1px solid  rgb(46,107,198);
+    color: white;
+}
+/* header is over */
+/* section a1 is start  */
+#a1{
+    height: 350px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cat{
+    height: 250px;
+    width: 65%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.cat1,.cat2,.cat3,.cat4,.cat5,.cat6{
+    height: 100%;
+    width: 16%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.cat1 h1,.cat2 h1,.cat3 h1,.cat4 h1,.cat5 h1,.cat6 h1{
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: normal;
+}
+.cat1 h4,.cat2 h4,.cat3 h4,.cat4 h4,.cat5 h4,.cat6 h4{
+    color: #777777;
+    font-family: 'Jost', sans-serif;
+    font-weight: normal;
+}
+.case{
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+    background-image: url(images/wood-accessories-category-1-132.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    transition: 1s;
+}
+
+.magsafe{
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+    background-image: url(images/wood-accessories-category-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.cable{
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+    background-image: url(images/wood-accessories-category-3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.charger{
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+    background-image: url(images/wood-accessories-category-4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.straps{
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+    background-image: url(images/wood-accessories-category-5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.power{
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+    background-image: url(images/wood-accessories-category-6-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* section a1 is over */
+
+/* section a2 is start */
+#a2{
+    height: 1000px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.a2text{
+    width: 100%;
+    text-align: center;
+}
+.a2text h4{
+    color:  rgb(46,107,198);
+    font-family: 'Jost', sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+}
+.a2text h1{
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-size: 45px;
+    font-weight: normal;
+}
+.a2text h5{
+    font-family: 'Jost', sans-serif;
+    font-weight: normal;
+    font-size: 17px;
+}
+.backcover{
+    height: 770px;
+    width: 65%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.back1,.back2,.back3,.back4,.back5,.back6,.back7,.back8,.back9,.back10{
+    height: 350px;
+    width: 19%;
+    text-align: center;
+}
+.back1 h5,.back2 h5,.back3 h5,.back4 h5,.back5 h5,.back6 h5,.back7 h5,.back8 h5,.back9 h5,.back10 h5{
+    font-family: 'Hanken Grotesk', sans-serif;
+    color: #333333;
+    font-size: 15px;
+    font-weight: 550;
+}
+.back1 h6,.back2 h6,.back3 h6,.back4 h6,.back5 h6,.back6 h6,.back7 h6,.back8 h6,.back9 h6,.back10 h6{
+    font-family: 'Jost', sans-serif;
+    color: #A5A5A5;
+    font-size: 15px;
+    padding-top: 5px;
+    font-weight: normal;
+}
+.back1 span,.back2 span,.back3 span,.back4 span,.back5 span,.back6 span,.back7 span,.back8 span,.back9 span.back10 span{
+    font-family: 'Hanken Grotesk', sans-serif;
+    color: rgb(46,107,198);
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.backi1{
+    height: 75%;
+    width: 100%;
+    background-image: url(images/blue-case-back-430x491.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.backi2{
+    height: 75%;
+    width: 100%;
+    background-image: url(images/w-accessories-product-iphone-xr-10-1-430x491.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.backi3{
+    height: 75%;
+    width: 100%;
+    background-image: url(images/green-case-back-430x491.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.backi4{
+    height: 75%;
+    width: 100%;
+    background-image: url(images/w-accessories-product-iphone-12-violet-1-430x491.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.backi5{
+    height: 75%;
+    width: 100%;
+    background-image: url(images/w-accessories-product-iphone-13-3-430x491.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.backi6{
+    height: 75%;
+    width: 100%;
+    background-image: url(images/w-accessories-product-iphone-13-6-430x491.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.backi7{
+    height: 75%;
+    width: 100%;
+    background-image: url(images/w-accessories-product-iphone-13-2-430x491.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.backi8{
+    height: 75%;
+    width: 100%;
+    background-image: url(images/w-accessories-product-link-3-1-430x491.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.backi9{
+    height: 75%;
+    width: 100%;
+    background-image: url(images/w-accessories-product-12-pro-4-430x491.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.backi10{
+    height: 75%;
+    width: 100%;
+    background-image: url(images/w-accessories-product-iphone-11-pro-7-430x491.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+/* section a2 is over */
+
+/* section a3 is start */
+#a3{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.provide{
+    height: 370px;
+    width: 60%;
+}
+.p1{
+    height: auto;
+    width: 100%;
+    text-align: center;
+}
+.p1 h4{
+    color:  rgb(46,107,198);
+    font-family: 'Jost', sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+}
+.p1 h1{
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-size: 40px;
+    font-weight: normal;
+}
+.p1 h5{
+    font-family: 'Jost', sans-serif;
+    font-weight: normal;
+    font-size: 17px;
+    padding-top: 5px;
+}
+.best{
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 70px;
+}
+.best1,.best2,.best3{
+    height: 100%;
+    width: 30%;
+    text-align: center;
+}
+.best1 h2,.best2 h2,.best3 h2{
+    font-family: 'Hanken Grotesk', sans-serif;
+    color: #242424;
+    font-weight: normal;
+    margin-top: 30px;
+}
+.best1 p,.best2 p,.best3 p{
+    font-family: 'Jost', sans-serif;
+    font-weight: normal;
+    color: #777777;
+    margin-top: 15px;   
+}
+/* section a3 is over */
+
+
+/* secion a4 is start */
+#a4{
+    height: 900px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+.premium1,.premium2{
+    height: 400px;
+    width: 65%;
+    display: flex;
+    justify-content: space-between;
+}
+.prem1{
+    height: 100%;
+    width: 41%;
+    border-radius: 15px;
+    background-image: url(images/accessories-banner-1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.prem1 h5,.prem2 h5{
+    font-family: 'Jost', sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgb(46,107,198);
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.prem1 h1,.prem2 h1{
+    font-family: 'Hanken Grotesk', sans-serif;
+    color: #242424;
+    font-weight: normal;
+    font-size: 35px;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.prem1 button{
+    height: 40px;
+    width: 100px;
+    background-color: rgb(46,107,198);
+    border: 1px solid  rgb(46,107,198);
+    color: white;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    border-radius: 5px;
+    margin-top: 22px;
+    margin-left: 30px;
+    cursor: pointer;
+    transition: 1s;
+}
+.prem1 button:hover{
+    background-color: transparent;
+    color: black;
+}
+.prem2{
+    height: 100%;
+    width: 57%;
+    border-radius: 15px;
+    background-image: url(images/accessories-banner-2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.prem2 button{
+    height: 40px;
+    width: 100px;
+    background-color: transparent;
+    border: 1px solid  rgb(46,107,198);
+    color: black;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    border-radius: 5px;
+    margin-top: 22px;
+    margin-left: 30px;
+    cursor: pointer;
+    transition: 1s;
+}
+.prem2 button:hover{
+    background-color: rgb(46,107,198);
+    color: white;
+}
+.prem3{
+    height: 100%;
+    width: 57%;
+    border-radius: 15px;
+    background-image: url(images/accessories-banner-3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.prem3 h5{
+    font-family: 'Jost', sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgb(46,107,198);
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.prem3 h1{
+    font-family: 'Hanken Grotesk', sans-serif;
+    color: #242424;
+    font-weight: normal;
+    font-size: 35px;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.prem3 button{
+    height: 40px;
+    width: 120px;
+    background-color: transparent;
+    border: 1px solid  rgb(46,107,198);
+    color: black;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    border-radius: 5px;
+    margin-top: 22px;
+    margin-left: 30px;
+    cursor: pointer;
+    font-size: 13px;
+    transition: 1s;
+}
+.prem3 button:hover{
+    background-color: rgb(46,107,198);
+    color: white;
+}
+.prem4{
+    height: 100%;
+    width: 41%;
+    border-radius: 15px;
+    background-image: url(images/wood-accessories-category-4-opt.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.prem4 h5{
+    font-family: 'Jost', sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgb(46,107,198);
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.prem4 h1{
+    font-family: 'Hanken Grotesk', sans-serif;
+    color: #242424;
+    font-weight: normal;
+    font-size: 35px;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.prem4 button{
+    height: 40px;
+    width: 120px;
+    background-color: rgb(46,107,198);
+    border: 1px solid  rgb(46,107,198);
+    color: white;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    border-radius: 5px;
+    margin-top: 22px;
+    margin-left: 30px;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.prem4 button:hover{
+    background-color: transparent;
+    color: black;
+}
+/* section a4 is over */
+
+
+/* section a5 is start */
+#a5{
+    height: 600px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.interest{
+    width: 100%;
+}
+.interest h4{
+    color:  rgb(46,107,198);
+    font-family: 'Jost', sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    text-align: center;
+}
+.interest h1{
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-size: 40px;
+    font-weight: normal;
+    text-align: center;
+}
+.interest h5{
+    font-family: 'Jost', sans-serif;
+    font-weight: normal;
+    font-size: 17px;
+    padding-top: 5px;
+    text-align: center;
+}
+.watch{
+    height: 350px;
+    width: 68%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.watch1,.watch2,.watch3,.watch4{
+    height: 100%;
+    width: 24%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    box-shadow: 5px 5px 5px 5px;
+}
+.wat1{
+    height: 60%;
+    width: 100%;
+    background-image: url(images/accessories-blog-img-1-400x247.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.wat2{
+    height: 60%;
+    width: 100%;
+    background-image: url(images/accessories-blog-img-2-400x247.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.wat3{
+    height: 60%;
+    width: 100%;
+    background-image: url(images/accessories-blog-img-3-400x247.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.wat4{
+    height: 60%;
+    width: 100%;
+    background-image: url(images/accessories-blog-img-4-400x247.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.watch1 h4,.watch2 h4,.watch3 h4,.watch4 h4{
+    width: 80%;
+    text-align: center;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-size: 20px;
+    color: #333333;
+    margin-left: 10%;
+}
+.wat1 h1,.wat2 h1,.wat3 h1,.wat4 h1{
+    width: 18%;
+    background-color: white;
+    color: #333333;    
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 2%;
+}
+.watch1 img,.watch2 img,.watch3 img,.watch4 img{
+    border-radius: 20px;
+}
+.mega{
+    height: auto;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.mega1{
+    height: auto;
+    width: 20%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.mega span{
+    color: #666666;
+    margin-left: 10%;
+}
+/* section a5 is over */
+
+/* seciton a6 is start */
+#a6{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;    
+}
+.photo1{
+    height: 100%;
+    width: 12.5%;
+    background-image: url(images/accessories-inst-9.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.photo2{
+    height: 100%;
+    width: 12.5%;
+    background-image: url(images/accessories-inst-2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.photo3{
+    height: 100%;
+    width: 12.5%;
+    background-image: url(images/accessories-inst-3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.photo4{
+    height: 100%;
+    width: 12.5%;
+    background-image: url(images/accessories-inst-4.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.photo5{
+    height: 100%;
+    width: 12.5%;
+    background-image: url(images/accessories-inst-5.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.photo6{
+    height: 100%;
+    width: 12.5%;
+    background-image: url(images/accessories-inst-6.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.photo7{
+    height: 100%;
+    width: 12.5%;
+    background-image: url(images/accessories-inst-7.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.photo8{
+    height: 100%;
+    width: 12.5%;
+    background-image: url(images/accessories-inst-8.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+/* section a6 is over */
+
+/* footer is start */
+footer{
+    height: 120px;
+    width: 100%;
+    background-color: #0a0a0a;
+    display: flex;
+    justify-content: center;
+}
+.foo1{
+    height: 100%;
+    width: 68%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo2{
+    height: 100%;
+    width: 18%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo2 img{
+    width: 100%;
+}
+.a2{
+    height: 100%;
+    width: 42%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.a2 a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: bold;
+}
+.dis{
+    height: 100%;
+    width: 19%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dis p{
+    color: #FFFFFFCC;
+    font-family: 'Hanken Grotesk', sans-serif;
+}
