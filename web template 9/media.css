@@ -1,0 +1,983 @@
+@media(max-width:980px){
+    header{
+        height: auto;
+        width: 100%;
+    }
+    .head1{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+    }
+    .logo{
+        height: auto;
+        width: 50%;
+    }
+    nav{
+        height: auto;
+        width: 100%;
+    }
+    nav ul{
+        justify-content: space-evenly;
+    }
+    nav ul li a{
+        font-size: 20px;
+    }
+    nav ul button{
+        height: 35px;
+        width: 140px;
+        font-size: 16px;
+    }
+    #a1{
+        height: 600px;
+        width: 100%;
+        background-position: bottom;
+        background-size: 500px;
+        justify-content: center;
+    }
+    .design{
+        height: auto;
+        width: 75%;
+        flex-direction: column;
+        margin-top: 30px;
+    }
+    .design1{
+        width: 95%;
+        text-align: center;
+    }
+    .design1 h3{
+        font-size: 17px;
+    }
+    .design1 h1{
+        font-size: 45px;
+    }
+    .design1 p{
+        font-size: 19px;
+    }
+    .design1 button{
+        height: 50px;
+        width: 155px;
+        font-size: 16px;
+    }
+    #a2{
+        height: auto;
+        width: 100%;
+    }
+    .why{
+        height: auto;
+        width: 95%;
+    }
+    .why h1{
+        font-size: 30px;
+    }
+    .why p{
+        font-size: 16px;
+    }
+    .servers{
+        height: auto;
+        width: 95%;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    .server1,.server3,.server5{
+        height: 230px;
+        width: 45%;
+        margin-top: 20px;
+        /* flex-direction: row-reverse; */
+    }
+    .ser1 h1{
+        text-align: start;
+    }
+    .ser1 p{
+        text-align: start;
+    }
+    .server2,.server4,.server6{
+        height: 230px;
+        width: 45%;
+        margin-top: 20px;
+    }
+    #a3{
+        height: auto;
+        width: 100%;
+    }
+    .services{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .services1{
+        height: auto;
+        width: 90%;
+        align-items: center;
+    }
+    .services11{
+        height: 400px;
+    }
+    .services12{
+        height: auto;
+        width: 100%;
+        margin-top: 30px;
+    }
+    .services12 h1{
+        font-size: 43px;
+    }
+    .services12 p{
+        font-size: 18px;
+    }
+    .services2{
+        height: auto;
+        width: 90%;
+        flex-wrap: wrap;
+    }
+    .vip1,.vip2,.vip3,.vip4{
+        height: 250px;
+        width: 47%;
+        margin-top: 30px;
+    }
+    #a4{
+        height: auto;
+        width: 100%;
+    }
+    .next{
+        height: auto;
+        width: 95%;
+        margin-top: 30px;
+        flex-wrap: wrap;
+    }
+    .next h3{
+        font-size: 18px;
+    }
+    .next h1{
+        font-size: 40px;
+    }
+    .next1{
+        height: auto;
+        width: 95%;
+    }
+    .next2{
+        height: auto;
+        width: 70%;
+        margin-top: 30px;
+    }
+    .next3{
+        margin-top: 20px;
+        height: auto;
+        width: 95%;
+    }
+    .next3 h1{
+        font-size: 32px;
+    }
+    .next3 #p1{
+        font-size: 18px;
+    }
+    .next3 #p2{
+        font-size: 18px;
+    }
+    .next3 button{
+        height: 50px;
+        width: 135px;
+        font-size: 16px;
+    }
+    #a5{
+        height: auto;
+        width: 100%;
+    }
+    .pricing{
+        height: auto;
+        width: 100%;
+    }
+    .pricing h1{
+        font-size: 30px;
+    }
+    .free{
+        height: auto;
+        width: 95%;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    .free1,.free2,.free3,.free4{
+        height: auto;
+        width: 45%;
+        margin-top: 50px;
+    }
+    footer{
+        height: auto;
+        width: 100%;
+    }
+    .easy{
+        height: auto;
+        width: 80%;
+        flex-direction: column;
+    }
+    .easy1{
+        height: auto;
+        width: 100%;
+    }
+    .easy1 h3{
+        font-size: 19px;
+    }
+    .easy1 h1{
+        font-size: 32px;
+    }
+    .easy2{
+        height: auto;
+        margin-top: 10px;
+        width: 100%;
+    }
+    .easy3{
+        height: auto;
+        width: 100%;
+        margin-top: 10px;
+    }
+    .easy3 button{
+        height: 50px;
+        width: 180px;
+        font-size: 16px;
+    }
+    .foo{
+        height: auto;
+        width: 80%;
+        margin-top: 50px;
+        flex-wrap: wrap;
+    }
+    .foo1,.foo2,.foo3,.foo4{
+        height: 420px;
+        width: 45%;
+    }
+}
+
+@media(max-width:720px){
+    header{
+        height: auto;
+        width: 100%;
+    }
+    .head1{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+    }
+    .logo{
+        height: auto;
+        width: 50%;
+    }
+    nav{
+        height: auto;
+        width: 100%;
+    }
+    nav ul{
+        justify-content: space-evenly;
+    }
+    nav ul li a{
+        font-size: 16px;
+    }
+    nav ul button{
+        height: 30px;
+        width: 130px;
+        font-size: 15px;
+    }
+    #a1{
+        height: 600px;
+        width: 100%;
+        background-position: bottom;
+        background-size: 500px;
+    }
+    .design{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+        margin-top: 30px;
+    }
+    .design1{
+        width: 95%;
+        text-align: center;
+    }
+    .design1 h3{
+        font-size: 15px;
+    }
+    .design1 h1{
+        font-size: 40px;
+    }
+    .design1 p{
+        font-size: 17px;
+    }
+    .design1 button{
+        height: 45px;
+        width: 145px;
+        font-size: 15px;
+    }
+    #a2{
+        height: auto;
+        width: 100%;
+    }
+    .why{
+        height: auto;
+        width: 85%;
+    }
+    .why h1{
+        font-size: 30px;
+    }
+    .why p{
+        font-size: 16px;
+    }
+    .servers{
+        height: auto;
+        width: 85%;
+        flex-direction: column;
+    }
+    .server1,.server3,.server5{
+        height: 200px;
+        width: 95%;
+        margin-top: 20px;
+        flex-direction: row-reverse;
+    }
+    .ser1 h1{
+        text-align: start;
+    }
+    .ser1 p{
+        text-align: start;
+    }
+    .server2,.server4,.server6{
+        height: 200px;
+        width: 95%;
+        margin-top: 20px;
+    }
+    #a3{
+        height: auto;
+        width: 100%;
+    }
+    .services{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .services1{
+        height: auto;
+        width: 80%;
+    }
+    .services11{
+        height: 320px;
+    }
+    .services12{
+        height: auto;
+        width: 100%;
+        margin-top: 30px;
+    }
+    .services12 h1{
+        font-size: 37px;
+    }
+    .services12 p{
+        font-size: 16px;
+    }
+    .services2{
+        height: auto;
+        width: 80%;
+        flex-direction: column;
+    }
+    .vip1,.vip2,.vip3,.vip4{
+        height: 220px;
+        width: 100%;
+        margin-top: 30px;
+    }
+    #a4{
+        height: auto;
+        width: 100%;
+    }
+    .next{
+        height: auto;
+        width: 80%;
+        margin-top: 30px;
+    }
+    .next h3{
+        font-size: 18px;
+    }
+    .next h1{
+        font-size: 40px;
+    }
+    .next1{
+        height: auto;
+        width: 80%;
+        flex-direction: column;
+    }
+    .next2{
+        height: auto;
+        width: 95%;
+        margin-top: 30px;
+    }
+    .next3{
+        margin-top: 20px;
+        height: auto;
+        width: 95%;
+    }
+    .next3 h1{
+        font-size: 32px;
+    }
+    .next3 #p1{
+        font-size: 18px;
+    }
+    .next3 #p2{
+        font-size: 18px;
+    }
+    .next3 button{
+        height: 50px;
+        width: 135px;
+        font-size: 16px;
+    }
+    #a5{
+        height: auto;
+        width: 100%;
+    }
+    .pricing{
+        height: auto;
+        width: 100%;
+    }
+    .pricing h1{
+        font-size: 30px;
+    }
+    .free{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .free1,.free2,.free3,.free4{
+        height: auto;
+        width: 75%;
+        margin-top: 50px;
+    }
+    footer{
+        height: auto;
+        width: 100%;
+    }
+    .easy{
+        height: auto;
+        width: 80%;
+        flex-direction: column;
+    }
+    .easy1{
+        height: auto;
+        width: 100%;
+    }
+    .easy1 h3{
+        font-size: 19px;
+    }
+    .easy1 h1{
+        font-size: 32px;
+    }
+    .easy2{
+        height: auto;
+        margin-top: 10px;
+        width: 100%;
+    }
+    .easy3{
+        height: auto;
+        width: 100%;
+        margin-top: 10px;
+    }
+    .easy3 button{
+        height: 50px;
+        width: 180px;
+        font-size: 16px;
+    }
+    .foo{
+        height: auto;
+        width: 80%;
+        margin-top: 50px;
+        flex-direction: column;
+    }
+    .foo1,.foo2,.foo3,.foo4{
+        height: 420px;
+        width: 100%;
+    }
+    .foo1{
+        height: 300px;
+    }
+}
+
+@media(max-width:576px){
+    header{
+        height: auto;
+        width: 100%;
+    }
+    .head1{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+    }
+    .logo{
+        height: auto;
+        width: 50%;
+    }
+    nav{
+        height: auto;
+        width: 100%;
+    }
+    nav ul li a{
+        font-size: 13px;
+    }
+    nav ul button{
+        height: 27px;
+        width: 110px;
+        font-size: 15px;
+    }
+    #a1{
+        height: 600px;
+        width: 100%;
+        background-position: bottom;
+        background-size: 500px;
+    }
+    .design{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+        margin-top: 30px;
+    }
+    .design1{
+        width: 95%;
+        text-align: center;
+    }
+    .design1 h3{
+        font-size: 13px;
+    }
+    .design1 h1{
+        font-size: 35px;
+    }
+    .design1 p{
+        font-size: 15px;
+    }
+    .design1 button{
+        height: 40px;
+        width: 125px;
+        font-size: 15px;
+    }
+    #a2{
+        height: auto;
+        width: 100%;
+    }
+    .why{
+        height: auto;
+        width: 95%;
+    }
+    .why h1{
+        font-size: 30px;
+    }
+    .why p{
+        font-size: 16px;
+    }
+    .servers{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .server1,.server3,.server5{
+        height: 200px;
+        width: 95%;
+        margin-top: 20px;
+        flex-direction: row-reverse;
+    }
+    .ser1 h1{
+        text-align: start;
+    }
+    .ser1 p{
+        text-align: start;
+    }
+    .server2,.server4,.server6{
+        height: 200px;
+        width: 95%;
+        margin-top: 20px;
+    }
+    #a3{
+        height: auto;
+        width: 100%;
+    }
+    .services{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .services1{
+        height: auto;
+        width: 95%;
+    }
+    .services11{
+        height: 320px;
+    }
+    .services12{
+        height: auto;
+        width: 100%;
+        margin-top: 30px;
+    }
+    .services12 h1{
+        font-size: 32px;
+    }
+    .services12 p{
+        font-size: 15px;
+    }
+    .services2{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .vip1,.vip2,.vip3,.vip4{
+        height: 220px;
+        width: 100%;
+        margin-top: 30px;
+    }
+    #a4{
+        height: auto;
+        width: 100%;
+    }
+    .next{
+        height: auto;
+        width: 95%;
+        margin-top: 30px;
+    }
+    .next h3{
+        font-size: 16px;
+    }
+    .next h1{
+        font-size: 35px;
+    }
+    .next1{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .next2{
+        height: auto;
+        width: 95%;
+        margin-top: 30px;
+    }
+    .next3{
+        margin-top: 20px;
+        height: auto;
+        width: 95%;
+    }
+    .next3 h1{
+        font-size: 27px;
+    }
+    .next3 #p1{
+        font-size: 16px;
+    }
+    .next3 #p2{
+        font-size: 16px;
+    }
+    .next3 button{
+        height: 40px;
+        width: 120px;
+        font-size: 15px;
+    }
+    #a5{
+        height: auto;
+        width: 100%;
+    }
+    .pricing{
+        height: auto;
+        width: 100%;
+    }
+    .pricing h1{
+        font-size: 30px;
+    }
+    .free{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .free1,.free2,.free3,.free4{
+        height: auto;
+        width: 85%;
+        margin-top: 50px;
+    }
+    footer{
+        height: auto;
+        width: 100%;
+    }
+    .easy{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .easy1{
+        height: auto;
+        width: 100%;
+    }
+    .easy1 h3{
+        font-size: 17px;
+    }
+    .easy1 h1{
+        font-size: 28px;
+    }
+    .easy2{
+        height: auto;
+        margin-top: 10px;
+        width: 100%;
+    }
+    .easy3{
+        height: auto;
+        width: 100%;
+        margin-top: 10px;
+    }
+    .easy3 button{
+        height: 40px;
+        width: 160px;
+        font-size: 15px;
+    }
+    .foo{
+        height: auto;
+        width: 95%;
+        margin-top: 50px;
+        flex-direction: column;
+    }
+    .foo1,.foo2,.foo3,.foo4{
+        height: 420px;
+        width: 100%;
+    }
+    .foo1{
+        height: 300px;
+    }
+}
+
+
+@media(max-width:480px){
+    header{
+        height: auto;
+        width: 100%;
+    }
+    .head1{
+        height: auto;
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+    }
+    .logo{
+        height: auto;
+        width: 50%;
+    }
+    nav{
+        height: auto;
+        width: 100%;
+    }
+    nav ul li a{
+        font-size: 13px;
+    }
+    nav ul button{
+        height: 27px;
+        width: 110px;
+        font-size: 15px;
+    }
+    #a1{
+        height: 600px;
+        width: 100%;
+        background-position: bottom;
+        background-size: 500px;
+    }
+    .design{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+        margin-top: 30px;
+    }
+    .design1{
+        width: 95%;
+        text-align: center;
+    }
+    .design1 h3{
+        font-size: 13px;
+    }
+    .design1 h1{
+        font-size: 35px;
+    }
+    .design1 p{
+        font-size: 15px;
+    }
+    .design1 button{
+        height: 40px;
+        width: 125px;
+        font-size: 15px;
+    }
+    #a2{
+        height: auto;
+        width: 100%;
+    }
+    .why{
+        height: auto;
+        width: 95%;
+    }
+    .why h1{
+        font-size: 30px;
+    }
+    .why p{
+        font-size: 16px;
+    }
+    .servers{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .server1,.server3,.server5{
+        height: 200px;
+        width: 95%;
+        margin-top: 20px;
+        flex-direction: row-reverse;
+    }
+    .ser1 h1{
+        text-align: start;
+    }
+    .ser1 p{
+        text-align: start;
+    }
+    .server2,.server4,.server6{
+        height: 200px;
+        width: 95%;
+        margin-top: 20px;
+    }
+    #a3{
+        height: auto;
+        width: 100%;
+    }
+    .services{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .services1{
+        height: auto;
+        width: 95%;
+    }
+    .services11{
+        height: 320px;
+    }
+    .services12{
+        height: auto;
+        width: 100%;
+        margin-top: 30px;
+    }
+    .services12 h1{
+        font-size: 32px;
+    }
+    .services12 p{
+        font-size: 15px;
+    }
+    .services2{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .vip1,.vip2,.vip3,.vip4{
+        height: 220px;
+        width: 100%;
+        margin-top: 30px;
+    }
+    #a4{
+        height: auto;
+        width: 100%;
+    }
+    .next{
+        height: auto;
+        width: 95%;
+        margin-top: 30px;
+    }
+    .next h3{
+        font-size: 16px;
+    }
+    .next h1{
+        font-size: 35px;
+    }
+    .next1{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .next2{
+        height: auto;
+        width: 95%;
+        margin-top: 30px;
+    }
+    .next3{
+        margin-top: 20px;
+        height: auto;
+        width: 95%;
+    }
+    .next3 h1{
+        font-size: 27px;
+    }
+    .next3 #p1{
+        font-size: 16px;
+    }
+    .next3 #p2{
+        font-size: 16px;
+    }
+    .next3 button{
+        height: 40px;
+        width: 120px;
+        font-size: 15px;
+    }
+    #a5{
+        height: auto;
+        width: 100%;
+    }
+    .pricing{
+        height: auto;
+        width: 100%;
+    }
+    .pricing h1{
+        font-size: 30px;
+    }
+    .free{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .free1,.free2,.free3,.free4{
+        height: auto;
+        width: 95%;
+        margin-top: 50px;
+    }
+    footer{
+        height: auto;
+        width: 100%;
+    }
+    .easy{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .easy1{
+        height: auto;
+        width: 100%;
+    }
+    .easy1 h3{
+        font-size: 17px;
+    }
+    .easy1 h1{
+        font-size: 28px;
+    }
+    .easy2{
+        height: auto;
+        margin-top: 10px;
+        width: 100%;
+    }
+    .easy3{
+        height: auto;
+        width: 100%;
+        margin-top: 10px;
+    }
+    .easy3 button{
+        height: 40px;
+        width: 160px;
+        font-size: 15px;
+    }
+    .foo{
+        height: auto;
+        width: 95%;
+        margin-top: 50px;
+        flex-direction: column;
+    }
+    .foo1,.foo2,.foo3,.foo4{
+        height: 420px;
+        width: 100%;
+    }
+    .foo1{
+        height: 300px;
+    }
+}
