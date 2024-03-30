@@ -1,0 +1,945 @@
+@media(max-width:980px){
+    header{
+        height: auto;
+        width: 100%;
+    }
+    .smallhead{
+        height: auto;
+        width: 100%;
+    }
+    .sm{
+        height: auto;
+        width: 100%;
+        justify-content: space-evenly;
+    }
+    .time{
+        height: 40px;
+        width: 55%;
+    }
+    #sun{
+        margin-left: 4%;
+    }
+    .google{
+        height: 40px;
+        width: 25%;
+    }
+    header{
+        height: auto;
+        width: 100%;
+    }
+    .head1{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+        align-items: center;
+    }
+    .logo{
+        height: auto;
+        width: 40%;
+    }
+    nav{
+        height: auto;
+        width: 100%;
+    }
+    nav ul li a{
+        font-size: 25px;
+    }
+    #a1{
+        height: auto;
+        width: 100%;
+    }
+    .instruction{
+        height: 400px;
+        width: 65%;
+        margin-left: 3%;
+    }
+    .instruction h3{
+        padding-top: 50px;
+        font-size: 24px;
+    }
+    .instruction h1{
+        font-size: 50px;
+    }
+    .instruction p{
+        font-size: 19px;
+        width: 80%;
+    }
+    .instruction button{
+        height: 50px;
+        width: 190px;
+        font-size: 19px;
+        margin-top: 30px;
+    }
+    #a2{
+        height: auto;
+        width: 100%;
+    }
+    .ser{
+        height: auto;
+        width: 90%;
+    }
+    .ser h3{
+        font-size: 19px;
+    }
+    .ser h1{
+        font-size: 33px;
+    }
+    .services{
+        height: auto;
+        width: 95%;
+    }
+    .services1,.services2,.services3{
+        height: 360px;
+        width: 32%;
+        margin-top: 30px;
+    }
+    #a3{
+        height: auto;
+        width: 100%;
+        background-position: right;
+    }
+    
+    .services21{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .ser1{
+        margin-top: 30px;
+        width: 70%;
+        height: 400px;
+    }
+    .ser2{
+        height: auto;
+        width: 70%;
+    }
+    .ser2 h3{
+        font-size: 25px;
+        margin-top: 30px;
+    }
+    .ser2 h1{
+        font-size: 43px;
+    }
+    .ser2 h4{
+        font-size: 24px;
+    }
+    .ser2 p{
+        padding-top: 40px;
+        font-size: 16px;
+    }
+    .ser2 button{
+        margin-bottom: 50px;
+    }
+    #a4{
+        margin-top: 50px;
+        height: auto;
+        width: 100%;
+    }
+    #a4 h3{
+        font-size: 22px;
+        width: 80%;
+    }
+    #a4 h1{
+        font-size: 35px;
+        width: 80%;
+    }
+    .case{
+        height: auto;
+        width: 90%;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    .case1,.case2,.case3,.case4{
+        width: 45%;
+        height: 600px;
+        margin-top: 30px;
+    }
+    .casefire1{
+        bottom: 30px;
+    }
+    #a5{
+        height: auto;
+        width: 100%;
+    }
+    .mes{
+        height: auto;
+        width: 95%;
+        margin-top: 60px;
+    }
+    #a5 h3{
+        font-size: 16px;
+    }
+    #a5 h1{
+        font-size: 40px;
+    }
+    .member{
+        height: auto;
+        width: 95%;
+        justify-content: space-between;
+    }
+    .mem1,.mem2,.mem3{
+        height: auto;
+        width: 32%;
+    }
+    #a6{
+        height: auto;
+        width: 100%;
+    }
+    .brands{
+        height: auto;
+        width: 95%;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+    .brands1,.brands2,.brands3,.brands4,.brands5{
+        width: 30%;
+        height: 100px;
+    }
+    footer{
+        height: auto;
+        width: 100%;
+    }
+    .foo{
+        height: auto;
+        width: 75%;
+        flex-wrap: wrap;
+    }
+    .foo1,.foo2,.foo3,.foo4{
+        height: 330px;
+        width: 45%;
+    }
+    .foo2{
+        margin-top: 25px;
+    }
+    .foo3{
+        margin-top: 30px;
+    }
+    .foo1{
+        margin-top: 20px;
+    }
+    .foo4{
+        height: 250px;
+    }
+    .foo1 p{
+        font-size: 18px;
+    }
+    #nu1,#nu2{
+        font-size: 33px;
+    }
+    .foo1 span{
+        font-size: 17px;
+    }
+    .foo2 h1,.foo3 h1,.foo4 h1{
+        font-size: 24px;
+    }
+    .all1 a,.all2 a{
+        font-size: 17px;
+    }
+    .foo4 h4{
+        font-size: 16px;
+    }
+    .foo4 button{
+        right: 20px;
+    }
+}
+
+@media(max-width:720px){
+    header{
+        height: auto;
+        width: 100%;
+    }
+    .smallhead{
+        height: auto;
+        width: 100%;
+    }
+    .sm{
+        height: auto;
+        width: 100%;
+        justify-content: space-evenly;
+    }
+    .time{
+        height: 40px;
+        width: 65%;
+    }
+    #sun{
+        margin-left: 4%;
+    }
+    .google{
+        height: 40px;
+        width: 30%;
+    }
+    header{
+        height: auto;
+        width: 100%;
+    }
+    .head1{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+        align-items: center;
+    }
+    .logo{
+        height: auto;
+        width: 40%;
+    }
+    nav{
+        height: auto;
+        width: 100%;
+    }
+    nav ul li a{
+        font-size: 22px;
+    }
+    #a1{
+        height: auto;
+        width: 100%;
+    }
+    .instruction{
+        height: 400px;
+        width: 80%;
+        margin-left: 3%;
+    }
+    .instruction h3{
+        padding-top: 50px;
+        font-size: 19px;
+    }
+    .instruction h1{
+        font-size: 45px;
+    }
+    .instruction p{
+        font-size: 19px;
+        width: 80%;
+    }
+    .instruction button{
+        height: 46px;
+        width: 180px;
+        font-size: 17px;
+        margin-top: 30px;
+    }
+    #a2{
+        height: auto;
+        width: 100%;
+    }
+    .ser{
+        height: auto;
+        width: 80%;
+    }
+    .ser h3{
+        font-size: 22px;
+    }
+    .ser h1{
+        font-size: 36px;
+    }
+    .services{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .services1,.services2,.services3{
+        height: 300px;
+        width: 85%;
+        margin-top: 30px;
+    }
+    #a3{
+        height: auto;
+        width: 100%;
+    }
+    .services21{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .ser1{
+        margin-top: 30px;
+        width: 85%;
+        height: 400px;
+    }
+    .ser2{
+        height: auto;
+        width: 85%;
+    }
+    .ser2 h3{
+        font-size: 24px;
+        margin-top: 30px;
+    }
+    .ser2 h1{
+        font-size: 40px;
+    }
+    .ser2 h4{
+        font-size: 22px;
+    }
+    .ser2 p{
+        padding-top: 40px;
+        font-size: 15px;
+    }
+    .ser2 button{
+        margin-bottom: 50px;
+    }
+    #a4{
+        margin-top: 50px;
+        height: auto;
+        width: 100%;
+    }
+    #a4 h3{
+        font-size: 22px;
+        width: 80%;
+    }
+    #a4 h1{
+        font-size: 35px;
+        width: 80%;
+    }
+    .case{
+        height: auto;
+        width: 80%;
+        flex-direction: column;
+    }
+    .case1,.case2,.case3,.case4{
+        width: 95%;
+        margin-top: 30px;
+    }
+    #a5{
+        height: auto;
+        width: 100%;
+    }
+    .mes{
+        height: auto;
+        width: 65%;
+        margin-top: 60px;
+    }
+    #a5 h3{
+        font-size: 16px;
+    }
+    #a5 h1{
+        font-size: 40px;
+    }
+    .member{
+        height: auto;
+        width: 95%;
+        flex-wrap: wrap;
+        /* flex-direction: column; */
+    }
+    .mem1,.mem2,.mem3{
+        height: auto;
+        width: 45%;
+    }
+    .mem3{
+        margin-top: 30px;
+    }
+    #a6{
+        height: auto;
+        width: 100%;
+    }
+    .brands{
+        height: auto;
+        width: 95%;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+    .brands1,.brands2,.brands3,.brands4,.brands5{
+        width: 33%;
+        height: 100px;
+    }
+    footer{
+        height: auto;
+        width: 100%;
+    }
+    .foo{
+        height: auto;
+        width: 75%;
+        flex-direction: column;
+    }
+    .foo1,.foo2,.foo3,.foo4{
+        height: 330px;
+        width: 95%;
+    }
+    .foo1{
+        margin-top: 20px;
+    }
+    .foo4{
+        height: 250px;
+    }
+    .foo1 p{
+        font-size: 18px;
+    }
+    #nu1,#nu2{
+        font-size: 33px;
+    }
+    .foo1 span{
+        font-size: 17px;
+    }
+    .foo2 h1,.foo3 h1,.foo4 h1{
+        font-size: 24px;
+    }
+    .all1 a,.all2 a{
+        font-size: 17px;
+    }
+    .foo4 h4{
+        font-size: 16px;
+    }
+    .foo4 button{
+        right: 120px;
+    }
+}
+
+@media(max-width:576px){
+    header{
+        height: auto;
+        width: 100%;
+    }
+    .smallhead{
+        height: auto;
+        width: 100%;
+    }
+    .sm{
+        height: auto;
+        width: 100%;
+        justify-content: space-evenly;
+    }
+    .time{
+        height: 40px;
+        width: 65%;
+    }
+    #sun{
+        margin-left: 4%;
+    }
+    .google{
+        height: 40px;
+        width: 30%;
+    }
+    header{
+        height: auto;
+        width: 100%;
+    }
+    .head1{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+        align-items: center;
+    }
+    .logo{
+        height: auto;
+        width: 40%;
+    }
+    nav{
+        height: auto;
+        width: 100%;
+    }
+    nav ul li a{
+        font-size: 19px;
+    }
+    #a1{
+        height: auto;
+        width: 100%;
+    }
+    .instruction{
+        height: 400px;
+        width: 90%;
+        margin-left: 3%;
+    }
+    .instruction h3{
+        padding-top: 50px;
+        font-size: 17px;
+    }
+    .instruction h1{
+        font-size: 40px;
+    }
+    .instruction p{
+        font-size: 17px;
+        width: 80%;
+    }
+    .instruction button{
+        height: 42px;
+        width: 160px;
+        font-size: 16px;
+    }
+    #a2{
+        height: auto;
+        width: 100%;
+    }
+    .ser{
+        height: auto;
+        width: 90%;
+    }
+    .ser h3{
+        font-size: 19px;
+    }
+    .ser h1{
+        font-size: 33px;
+    }
+    .services{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .services1,.services2,.services3{
+        height: 300px;
+        width: 95%;
+        margin-top: 30px;
+    }
+    #a3{
+        height: auto;
+        width: 100%;
+    }
+    .services21{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .ser1{
+        margin-top: 30px;
+        width: 95%;
+        height: 400px;
+    }
+    .ser2{
+        height: auto;
+        width: 95%;
+    }
+    .ser2 h3{
+        font-size: 22px;
+        margin-top: 30px;
+    }
+    .ser2 h1{
+        font-size: 35px;
+    }
+    .ser2 h4{
+        font-size: 21px;
+    }
+    .ser2 p{
+        padding-top: 40px;
+        font-size: 14px;
+    }
+    .ser2 button{
+        margin-bottom: 50px;
+    }
+    #a4{
+        margin-top: 50px;
+        height: auto;
+        width: 100%;
+    }
+    #a4 h3{
+        font-size: 20px;
+        width: 90%;
+    }
+    #a4 h1{
+        font-size: 30px;
+        width: 90%;
+    }
+    .case{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .case1,.case2,.case3,.case4{
+        width: 95%;
+        margin-top: 30px;
+    }
+    #a5{
+        height: auto;
+        width: 100%;
+    }
+    .mes{
+        height: auto;
+        width: 70%;
+        margin-top: 60px;
+    }
+    #a5 h3{
+        font-size: 14px;
+    }
+    #a5 h1{
+        font-size: 30px;
+    }
+    .member{
+        height: auto;
+        width: 70%;
+        flex-direction: column;
+    }
+    .mem1,.mem2,.mem3{
+        height: auto;
+        width: 95%;
+    }
+    #a6{
+        height: auto;
+        width: 100%;
+    }
+    .brands{
+        height: auto;
+        width: 95%;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+    .brands1,.brands2,.brands3,.brands4,.brands5{
+        width: 45%;
+        height: 100px;
+    }
+    footer{
+        height: auto;
+        width: 100%;
+    }
+    .foo{
+        height: auto;
+        width: 85%;
+        flex-direction: column;
+    }
+    .foo1,.foo2,.foo3,.foo4{
+        height: 330px;
+        width: 95%;
+    }
+    .foo1{
+        margin-top: 20px;
+    }
+    .foo4{
+        height: 250px;
+    }
+    .foo1 p{
+        font-size: 16px;
+    }
+    #nu1,#nu2{
+        font-size: 30px;
+    }
+    .foo1 span{
+        font-size: 16px;
+    }
+    .foo2 h1,.foo3 h1,.foo4 h1{
+        font-size: 24px;
+    }
+    .all1 a,.all2 a{
+        font-size: 16px;
+    }
+    .foo4 h4{
+        font-size: 16px;
+    }
+    .foo4 button{
+        right: 65px;
+    }
+}
+
+@media(max-width:480px){
+    header{
+        height: auto;
+        width: 100%;
+    }
+    .smallhead{
+        height: auto;
+        width: 100%;
+    }
+    .sm{
+        height: auto;
+        width: 100%;
+        justify-content: space-evenly;
+    }
+    .time{
+        height: 40px;
+        width: 65%;
+    }
+    #sun{
+        margin-left: 4%;
+    }
+    .google{
+        height: 40px;
+        width: 30%;
+    }
+    header{
+        height: auto;
+        width: 100%;
+    }
+    .head1{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+        align-items: center;
+    }
+    .logo{
+        height: auto;
+        width: 40%;
+    }
+    nav{
+        height: auto;
+        width: 100%;
+    }
+    nav ul li a{
+        font-size: 18px;
+    }
+    #a1{
+        height: auto;
+        width: 100%;
+    }
+    .instruction{
+        height: 400px;
+        width: 90%;
+        margin-left: 3%;
+    }
+    .instruction h3{
+        padding-top: 50px;
+        font-size: 16px;
+    }
+    .instruction h1{
+        font-size: 35px;
+    }
+    .instruction p{
+        font-size: 16px;
+        width: 80%;
+    }
+    .instruction button{
+        height: 40px;
+        width: 150px;
+        font-size: 15px;
+    }
+    #a2{
+        height: auto;
+        width: 100%;
+    }
+    .ser{
+        height: auto;
+        width: 95%;
+    }
+    .ser h3{
+        font-size: 18px;
+    }
+    .ser h1{
+        font-size: 30px;
+    }
+    .services{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .services1,.services2,.services3{
+        height: 300px;
+        width: 95%;
+        margin-top: 30px;
+    }
+    #a3{
+        height: auto;
+        width: 100%;
+    }
+    .services21{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .ser1{
+        margin-top: 30px;
+        width: 95%;
+        height: 400px;
+    }
+    .ser2{
+        height: auto;
+        width: 95%;
+    }
+    .ser2 h3{
+        font-size: 20px;
+        margin-top: 30px;
+    }
+    .ser2 h1{
+        font-size: 32px;
+    }
+    .ser2 h4{
+        font-size: 20px;
+    }
+    .ser2 p{
+        padding-top: 40px;
+        font-size: 13px;
+    }
+    .ser2 button{
+        margin-bottom: 50px;
+    }
+    #a4{
+        height: auto;
+        width: 100%;
+    }
+    #a4 h3{
+        font-size: 20px;
+        width: 90%;
+    }
+    #a4 h1{
+        font-size: 30px;
+        width: 90%;
+    }
+    .case{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .case1,.case2,.case3,.case4{
+        width: 95%;
+        margin-top: 30px;
+    }
+    #a5{
+        height: auto;
+        width: 100%;
+    }
+    .mes{
+        height: auto;
+        width: 90%;
+        margin-top: 60px;
+    }
+    #a5 h3{
+        font-size: 14px;
+    }
+    #a5 h1{
+        font-size: 30px;
+    }
+    .member{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .mem1,.mem2,.mem3{
+        height: auto;
+        width: 95%;
+    }
+    #a6{
+        height: auto;
+        width: 100%;
+    }
+    .brands{
+        height: auto;
+        width: 95%;
+
+        flex-wrap: wrap;
+    }
+    .brands1,.brands2,.brands3,.brands4,.brands5{
+        width: 45%;
+        height: 100px;
+    }
+    footer{
+        height: auto;
+        width: 100%;
+    }
+    .foo{
+        height: auto;
+        width: 95%;
+        flex-direction: column;
+    }
+    .foo1,.foo2,.foo3,.foo4{
+        height: 330px;
+        width: 95%;
+    }
+    .foo1{
+        margin-top: 20px;
+    }
+    .foo4{
+        height: 250px;
+    }
+    .foo1 p{
+        font-size: 16px;
+    }
+    #nu1,#nu2{
+        font-size: 30px;
+    }
+    .foo1 span{
+        font-size: 16px;
+    }
+    .foo2 h1,.foo3 h1,.foo4 h1{
+        font-size: 24px;
+    }
+    .all1 a,.all2 a{
+        font-size: 16px;
+    }
+    .foo4 h4{
+        font-size: 16px;
+    }
+    .foo4 button{
+        right: 35px;
+    }
+
+}
